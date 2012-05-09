@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+	version="2.0">
+
+	<persistence-unit name="ComplexCelebrity" transaction-type="RESOURCE_LOCAL">
+      <provider>org.hibernate.ejb.HibernatePersistence</provider>
+      <class>com.grupoatwork.celebrities.model.Address</class>
+      <class>com.grupoatwork.celebrities.model.Celebrity</class>
+      <class>com.grupoatwork.celebrities.model.Country</class>
+      <class>com.grupoatwork.celebrities.model.County</class>
+      <class>com.grupoatwork.celebrities.model.District</class>
+      <class>com.grupoatwork.celebrities.model.Movie</class>
+      <class>com.grupoatwork.celebrities.model.Occupation</class>
+      <class>com.grupoatwork.celebrities.model.Parish</class>
+      <class>com.grupoatwork.celebrities.model.Role</class>
+      <exclude-unlisted-classes />
+        
+      <properties>
+         <!-- <property name="hibernate.hbm2ddl.auto" value="create-drop"/> -->
+         <property name="hibernate.connection.username" value="complex"/>
+         <property name="hibernate.connection.password" value="complex"/>
+         <property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver"/>
+         <property name="hibernate.connection.url" value="jdbc:mysql://127.0.0.1:3306/complexcelebrities"/>         
+         <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
+         <property name="hibernate.show_sql" value="true"/>
+      </properties>
+   </persistence-unit>
+
+</persistence>

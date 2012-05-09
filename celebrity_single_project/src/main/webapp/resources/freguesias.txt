@@ -1,0 +1,4354 @@
+09;11;10;Bendada
+09;11;11;Bismula
+09;11;12;Casteleiro
+09;11;13;Cerdeira
+09;11;14;Foios
+09;11;15;Forcalhos
+09;11;16;Lajeosa
+09;11;17;Lomba
+09;11;18;Malcata
+09;11;19;Moita
+09;11;20;Nave
+09;11;21;Pena Lobo
+09;11;22;Pousafoles do Bispo
+09;11;23;Quadrazais
+09;11;24;Quintas de São Bartolomeu
+09;11;25;Rapoula do Coa
+09;11;26;Rebolosa
+09;11;27;Rendo
+09;11;28;Ruivós
+09;11;29;Ruvina
+09;11;30;Sabugal
+09;11;31;Santo Estevão
+09;11;32;Seixo do Coa
+09;11;33;Sortelha
+09;11;34;Soito
+09;11;35;Vale das Éguas
+09;11;36;Vale de Espinho
+09;11;37;Vale Longo
+09;11;38;Vila Boa
+09;11;39;Vila do Touro
+09;11;40;Vilar Maior
+09;12;01;Alvoco da Serra
+09;12;02;Cabeça
+09;12;03;Carragozela
+09;12;04;Folhadosa
+09;12;05;Girabolhos
+09;12;06;Lajes
+09;12;07;Loriga
+09;12;08;Paranhos
+09;12;09;Pinhanços
+09;12;10;Sabugueiro
+09;12;11;Sameice
+09;12;12;Sandomil
+09;12;13;Santa Comba
+09;12;14;Santa Eulália
+09;12;15;Santa Marinha
+09;12;16;Santiago
+09;12;17;São Martinho
+09;12;18;São Romão
+09;12;19;Sazes da Beira
+09;12;20;Seia
+09;12;21;Teixeira
+09;12;22;Torrozelo
+09;12;23;Tourais
+09;12;24;Travancinha
+09;12;25;Valezim
+09;12;26;Várzea de Meruge
+09;12;27;Vide
+09;12;28;Vila Cova à Coelheira
+09;12;29;Lapa dos Dinheiros
+09;13;00;Indefinida
+09;13;01;Aldeia Nova
+09;13;02;Carnicães
+09;13;03;Castanheira
+09;13;04;Cogula
+09;13;05;Cótimos
+09;13;06;Feital
+09;13;07;Fiães
+09;13;08;Freches
+09;13;09;Granja
+09;13;10;Guilheiro
+09;13;11;Moimentinha
+09;13;12;Moreira de Rei
+09;13;13;Palhais
+09;13;14;Póvoa do Concelho
+09;13;15;Reboleiro
+09;13;16;Rio de Mel
+09;13;17;Santa Maria
+09;13;18;São Pedro
+09;13;19;Sebadelhe da Serra
+09;13;20;Souto Maior
+09;13;21;Tamanhos
+09;13;22;Terrenho
+09;13;23;Torre do Terrenho
+09;13;24;Torres
+09;13;25;Valdujo
+09;13;26;Vale do Seixo
+09;13;27;Vila Franca das Naves
+09;13;28;Vila Garcia
+09;13;29;Vilares
+09;14;01;Almendra
+09;14;02;Castelo Melhor
+09;14;03;Cedovim
+09;14;04;Chãs
+09;14;05;Custóias
+09;14;06;Freixo de Numão
+09;14;07;Horta
+09;14;08;Mós
+09;14;09;Murça
+09;14;10;Muxagata
+09;14;11;Numão
+09;14;12;Santa Comba
+09;14;13;Santo Amaro
+09;14;14;Sebadelhe
+09;14;15;Seixas
+09;14;16;Touca
+09;14;17;Vila Nova de Foz Côa
+10;01;01;Alcobaça
+10;01;02;Alfeizerão
+10;01;03;Alpedriz
+10;01;04;Bárrio
+10;01;05;Benedita
+10;01;06;Cela
+10;01;07;Coz
+10;01;08;Évora de Alcobaça
+10;01;09;Maiorga
+10;01;10;Pataias
+10;01;11;Aljubarrota (Prazeres)
+10;01;12;São Martinho do Porto
+10;01;13;Aljubarrota (São Vicente)
+10;01;14;Turquel
+10;01;15;Vestiaria
+10;01;16;Vimeiro
+10;01;18;Martingança
+10;01;19;Montes
+10;02;01;Almoster
+10;02;02;Alvaiázere
+10;02;03;Maçãs de Caminho
+10;02;04;Maçãs de Dona Maria
+10;02;05;Pelmá
+10;02;06;Pussos
+10;02;07;Rego da Murta
+10;03;01;Alvorge
+10;03;02;Ansião
+10;03;03;Avelar
+10;03;04;Chão de Couce
+10;03;05;Lagarteira
+10;03;06;Pousaflores
+10;03;07;Santiago da Guarda
+10;03;08;Torre de Vale de Todos
+10;04;01;Batalha
+10;04;02;Reguengo do Fetal
+10;04;03;São Mamede
+10;04;04;Golpilheira
+10;05;01;Bombarral
+10;05;02;Carvalhal
+10;05;03;Roliça
+10;05;04;Vale Covo
+10;05;05;Pó
+10;06;00;Indefinida
+10;06;01;A dos Francos
+10;06;02;Alvorninha
+10;06;03;Nossa Senhora do Pópulo
+10;06;04;Carvalhal Benfeito
+10;06;05;Coto
+10;06;06;Foz do Arelho
+10;06;07;Landal
+10;06;08;Nadadouro
+10;06;09;Salir de Matos
+10;06;10;Salir do Porto
+10;06;11;Santa Catarina
+10;06;12;São Gregório
+10;06;13;Serra do Bouro
+10;06;14;Tornada
+10;06;15;Vidais
+10;06;16;Santo Onofre
+10;07;01;Castanheira de Pêra
+10;07;02;Coentral
+10;08;01;Aguda
+10;08;02;Arega
+10;08;03;Campelo
+10;08;04;Figueiró dos Vinhos
+10;08;05;Bairradas
+10;09;01;Amor
+10;09;02;Arrabal
+10;09;03;Azoia
+10;09;04;Barosa
+10;09;05;Barreira
+10;09;06;Boa Vista
+10;09;07;Caranguejeira
+10;09;08;Carvide
+10;09;09;Coimbrão
+10;09;10;Colmeias
+10;09;11;Cortes
+10;09;12;Leiria
+10;09;13;Maceira
+10;09;14;Marrazes
+10;09;15;Milagres
+10;09;16;Monte Real
+10;09;17;Monte Redondo
+10;09;18;Ortigosa
+10;09;19;Parceiros
+10;09;20;Pousos
+10;09;21;Regueira de Pontes
+10;09;22;Santa Catarina da Serra
+10;09;23;Santa Eufémia
+10;09;24;Souto da Carpalhosa
+10;09;25;Bajouca
+10;09;26;Bidoeira de Cima
+10;09;27;Memória
+10;09;30;Carreira
+10;09;31;Chainça
+10;10;01;Marinha Grande
+10;10;02;Vieira de Leiria
+10;10;03;Moita
+10;11;01;Famalicão
+10;11;02;Nazaré
+10;11;03;Valado dos Frades
+10;12;00;Indefinida
+10;12;01;A dos Negros
+10;12;02;Amoreira
+10;12;03;Olho Marinho
+10;12;04;Santa Maria (Óbidos)
+10;12;05;São Pedro (Óbidos)
+10;12;06;Sobral da Lagoa
+10;12;07;Vau
+10;12;08;Gaeiras
+10;12;09;Usseira
+10;13;01;Graça
+10;13;02;Pedrógão Grande
+10;13;03;Vila Facaia
+10;14;01;Ajuda
+10;14;02;Atouguia da Baleia
+10;14;03;Conceição
+10;14;04;São Pedro
+10;14;05;Serra D'El Rei
+10;14;06;Ferrel
+10;15;01;Abiul
+10;15;02;Albergaria dos Doze
+10;15;03;Almagreira
+10;15;04;Carnide
+10;15;05;Carriço
+10;15;06;Louriçal
+10;15;07;Mata Mourisca
+10;15;08;Pelariga
+10;15;09;Pombal
+10;15;10;Redinha
+10;15;11;Santiago de Litém
+10;15;12;São Simão de Litém
+10;15;13;Vermoil
+10;15;14;Vila Cã
+10;15;15;Meirinhas
+10;15;16;Guia
+10;15;17;Ilha
+10;16;01;Alcaria
+10;16;02;Alqueidão da Serra
+10;16;03;Alvados
+10;16;04;Arrimal
+10;16;05;Calvaria de Cima
+10;16;06;Juncal
+10;16;07;Mendiga
+10;16;08;Mira de Aire
+10;16;09;Pedreiras
+10;16;10;São Bento
+10;16;11;São João Batista
+10;16;12;São Pedro
+10;16;13;Serro Ventoso
+11;01;01;Abrigada
+11;01;02;Aldeia Galega da Merceana
+11;01;03;Aldeia Gavinha
+11;01;04;Cabanas de Torres
+11;01;05;Cadafais
+11;01;06;Carnota
+11;01;07;Meca
+11;01;08;Olhalvo
+11;01;09;Ota
+11;01;10;Pereiro de Palhacana
+11;01;11;Santo Estevão
+11;01;12;Triana
+11;01;13;Ventosa
+11;01;14;Vila Verde dos Francos
+11;01;15;Carregado
+11;01;16;Ribafria
+11;02;01;Arranhó
+11;02;02;Arruda dos Vinhos
+11;02;03;Cardosas
+11;02;04;Santiago dos Velhos
+11;03;01;Alcoentre
+11;03;02;Aveiras de Baixo
+11;03;03;Aveiras de Cima
+11;03;04;Azambuja
+11;03;05;Manique do Intendente
+11;03;06;Vale do Paraíso
+11;03;07;Vila Nova da Rainha
+11;03;08;Vila Nova de São Pedro
+11;03;09;Maçussa
+11;04;01;Alguber
+11;04;02;Cadaval
+11;04;03;Cercal
+11;04;04;Figueiros
+11;04;05;Lamas
+11;04;06;Painho
+11;04;07;Peral
+11;04;08;Pêro Moniz
+11;04;09;Vermelha
+11;04;10;Vilar
+11;05;01;Alcabideche
+11;05;02;Carcavelos
+11;05;03;Cascais
+11;05;04;Estoril
+11;05;05;Parede
+11;05;06;São Domingos de Rana
+11;06;01;Ajuda
+11;06;02;Alcântara
+11;06;03;Alto do Pina
+11;06;04;Alvalade
+11;06;05;Ameixoeira
+11;06;06;Anjos
+11;06;07;Beato
+11;06;08;Benfica
+11;06;09;Campo Grande
+11;06;10;Campolide
+11;06;11;Carnide
+11;06;12;Castelo
+11;06;13;Charneca
+11;06;14;Coração de Jesus
+11;06;15;Encarnação
+11;06;16;Graça
+11;06;17;Lapa
+11;06;18;Lumiar
+11;06;19;Madalena
+11;06;20;Mártires
+11;06;21;Marvila
+11;06;22;Mercês
+11;06;23;Nossa Senhora de Fátima
+11;06;24;Pena
+11;06;25;Penha de França
+11;06;26;Prazeres
+11;06;27;Sacramento
+11;06;28;Santa Catarina
+11;06;29;Santa Engrácia
+11;06;30;Santa Isabel
+11;06;31;Santa Justa
+11;06;32;Santa Maria de Belém
+11;06;33;Santa Maria dos Olivais
+11;06;34;Santiago
+11;06;35;Santo Condestável
+11;06;36;Santo Estevão
+11;06;37;Santos-o-Velho
+11;06;38;São Cristóvão
+11;06;39;São Domingos de Benfica
+11;06;40;São Francisco Xavier
+11;06;41;São João
+11;06;42;São João de Brito
+11;06;43;São João de Deus
+11;06;44;São Jorge de Arroios
+11;06;45;São José
+11;06;46;São Mamede
+11;06;47;São Miguel
+11;06;48;São Nicolau
+11;06;49;São Paulo
+11;06;50;São Sebastião da Pedreira
+11;06;51;São Vicente de Fora
+11;06;52;Sé
+11;06;53;Socorro
+11;07;01;Apelação
+11;07;02;Bucelas
+11;07;03;Camarate
+11;07;05;Fanhões
+11;07;06;Frielas
+11;07;07;Loures
+11;07;08;Lousa
+11;07;09;Moscavide
+11;07;12;Sacavém
+11;07;13;Santa Iria de Azoia
+11;07;14;Santo Antão do Tojal
+11;07;15;São João da Talha
+11;07;16;São Julião do Tojal
+11;07;17;Unhos
+11;07;19;Portela
+11;07;22;Bobadela
+11;07;23;Prior Velho
+11;07;24;Santo António de Cavaleiros
+11;08;01;Lourinhã
+11;08;02;Miragaia
+11;08;03;Moita dos Ferreiros
+11;08;04;Moledo
+11;08;05;Reguengo Grande
+11;08;06;Santa Bárbara
+01;01;01;Agadão
+01;01;02;Aguada de Baixo
+01;01;03;Aguada de Cima
+01;01;04;Águeda
+01;01;05;Barrô
+01;01;06;Belazaima do Chão
+01;01;07;Castanheira do Vouga
+01;01;08;Espinhel
+01;01;09;Fermentelos
+01;01;10;Lamas do Vouga
+01;01;11;Macieira de Alcoba
+01;01;12;Macinhata do Vouga
+01;01;13;Óis da Ribeira
+01;01;14;Préstimo
+01;01;15;Recardães
+01;01;16;Segadães
+01;01;17;Travassô
+01;01;18;Trofa
+01;01;19;Valongo do Vouga
+01;01;20;Borralha
+01;02;01;Albergaria-a-Velha
+01;02;02;Alquerubim
+01;02;03;Angeja
+01;02;04;Branca
+01;02;05;Frossos
+01;02;06;Ribeira de Fráguas
+01;02;07;São João de Loure
+01;02;08;Valmaior
+01;03;01;Amoreira da Gândara
+01;03;02;Ancas
+01;03;03;Arcos
+01;03;04;Avelãs de Caminho
+01;03;05;Avelãs de Cima
+01;03;06;Mogofores
+01;03;07;Moita
+01;03;08;Óis do Bairro
+01;03;09;Sangalhos
+01;03;10;São Lourenço do Bairro
+01;03;11;Tamengos
+01;03;12;Vila Nova de Monsarros
+01;03;13;Vilarinho do Bairro
+01;03;14;Paredes do Bairro
+01;03;15;Aguim
+01;04;01;Albergaria da Serra
+01;04;02;Alvarenga
+01;04;03;Arouca
+01;04;04;Burgo
+01;04;05;Cabreiros
+01;04;06;Canelas
+01;04;07;Chave
+01;04;08;Covelo de Paivó
+01;04;09;Escariz
+01;04;10;Espiunca
+01;04;11;Fermedo
+01;04;12;Janarde
+01;04;13;Mansores
+01;04;14;Moldes
+01;04;15;Rossas
+01;04;16;Santa Eulália
+01;04;17;São Miguel do Mato
+01;04;18;Tropeço
+01;04;19;Urrô
+01;04;20;Várzea
+01;05;01;Aradas
+01;05;02;Cacia
+01;05;03;Eirol
+01;05;04;Eixo
+01;05;05;Esgueira
+01;05;06;Glória
+01;05;07;Nariz
+01;05;08;Oliveirinha
+01;05;09;Requeixo
+01;05;10;São Bernardo
+01;05;11;São Jacinto
+01;05;12;Vera Cruz
+01;05;13;Santa Joana
+01;05;14;Nossa Senhora de Fátima
+01;06;01;Bairros
+01;06;02;Fornos
+01;06;03;Paraíso
+01;06;04;Pedorido
+01;06;05;Raiva
+01;06;06;Real
+01;06;07;Santa Maria de Sardoura
+01;06;08;São Martinho de Sardoura
+01;06;09;Sobrado
+01;07;01;Anta
+01;07;02;Espinho
+01;07;03;Guetim
+01;07;04;Paramos
+01;07;05;Silvalde
+01;08;01;Avanca
+01;08;02;Beduído
+01;08;03;Canelas
+01;08;04;Fermelã
+01;08;05;Pardilhó
+01;08;06;Salreu
+01;08;07;Veiros
+01;09;01;Argoncilhe
+01;09;02;Arrifana
+01;09;03;Canedo
+01;09;04;Escapães
+01;09;05;Espargo
+01;09;06;Feira
+01;09;07;Fiães
+01;09;08;Fornos
+01;09;09;Gião
+01;09;10;Guisande
+01;09;11;Lobão
+01;09;12;Louredo
+01;09;13;Lourosa
+01;09;14;Milheirós de Poiares
+01;09;15;Mosteiró
+01;09;16;Mozelos
+01;09;17;Nogueira da Regedoura
+01;09;18;São Paio de Oleiros
+01;09;19;Paços de Brandão
+01;09;20;Pigeiros
+01;09;21;Rio Meão
+01;09;22;Romariz
+01;09;23;Sanfins
+01;09;24;Sanguedo
+01;09;25;Santa Maria de Lamas
+01;09;26;São João de Ver
+01;09;27;Caldas de São Jorge
+01;09;28;Souto
+01;09;29;Travanca
+01;09;30;Vale
+01;09;31;Vila Maior
+01;10;01;Gafanha do Carmo
+01;10;02;Gafanha da Encarnação
+01;10;03;Gafanha da Nazaré
+01;10;04;São Salvador
+01;11;01;Antes
+01;11;02;Barcouço
+01;11;03;Casal Comba
+01;11;04;Luso
+01;11;05;Mealhada
+01;11;06;Pampilhosa
+01;11;07;Vacariça
+01;11;08;Ventosa do Bairro
+01;12;01;Bunheiro
+01;12;02;Monte
+01;12;03;Murtosa
+01;12;04;Torreira
+01;13;01;Carregosa
+01;13;02;Cesar
+01;13;03;Fajões
+01;13;04;Loureiro
+01;13;05;Macieira de Sarnes
+01;13;06;Macinhata da Seixa
+01;13;07;Madail
+01;13;08;Nogueira do Cravo
+01;13;09;Oliveira de Azeméis
+01;13;10;Ossela
+01;13;11;Palmaz
+01;13;12;Pindelo
+01;13;13;Pinheiro da Bemposta
+01;13;14;Santiago de Riba-Ul
+01;13;15;São Martinho da Gândara
+01;13;16;Travanca
+01;13;17;Ul
+01;13;18;São Roque
+01;13;19;Vila de Cucujães
+01;14;01;Bustos
+01;14;02;Mamarrosa
+01;14;03;Oiã
+01;14;04;Oliveira do Bairro
+01;14;05;Palhaça
+01;14;06;Troviscal
+01;15;01;Arada
+01;15;02;Cortegaça
+01;15;03;Esmoriz
+01;15;04;Maceda
+01;15;05;Ovar
+01;15;06;São Vicente de Pereira Jusã
+01;15;07;Válega
+01;15;08;São João
+01;16;01;São João da Madeira
+01;17;01;Cedrim
+01;17;02;Couto de Esteves
+01;17;03;Paradela
+01;17;04;Pessegueiro do Vouga
+01;17;05;Rocas do Vouga
+01;17;06;Sever do Vouga
+01;17;07;Silva Escura
+01;17;08;Talhadas
+01;17;09;Dornelas
+01;18;01;Calvão
+01;18;02;Covão do Lobo
+01;18;03;Fonte de Angeão
+01;18;04;Gafanha da Boa Hora
+01;18;05;Ouca
+01;18;06;Ponte de Vagos
+01;18;07;Sosa
+01;18;08;Vagos
+01;18;09;Santo António de Vagos
+01;18;10;Santo André de Vagos
+01;18;11;Santa Catarina
+01;19;00;Indefinida
+01;19;01;Arões
+01;19;02;São Pedro de Castelões
+01;19;03;Cepelos
+01;19;04;Codal
+01;19;05;Junqueira
+01;19;06;Macieira de Cambra
+01;19;07;Rôge
+01;19;08;Vila Chã
+01;19;09;Vila Cova de Perrinho
+02;01;01;Aljustrel
+02;01;02;Ervidel
+02;01;03;Messejana
+02;01;04;São João de Negrilhos
+02;01;05;Rio de Moinhos
+02;02;01;Almodôvar
+02;02;02;Gomes Aires
+02;02;03;Rosário
+02;02;04;Santa Clara-a-Nova
+02;02;05;Santa Cruz
+02;02;06;São Barnabé
+02;02;07;Senhora da Graça de Padrões
+02;02;08;Aldeia dos Fernandes
+02;03;01;Alvito
+02;03;02;Vila Nova da Baronia
+02;04;01;Barrancos
+02;05;00;Indefinida
+02;05;01;Albernoa
+02;05;02;Baleizão
+02;05;03;Beringel
+02;05;04;Cabeça Gorda
+02;05;05;Mombeja
+02;05;06;Nossa Senhora das Neves
+02;05;07;Quintos
+02;05;08;Salvada
+02;05;09;Salvador
+02;05;10;Santa Clara de Louredo
+02;05;11;Santa Maria da Feira
+02;05;12;Santa Vitória
+02;05;13;Santiago Maior
+02;05;14;São Brissos
+02;05;15;São João Baptista
+02;05;16;São Matias
+02;05;17;Trindade
+02;05;18;Trigaches
+02;06;01;Casével
+02;06;02;Castro Verde
+02;06;03;Entradas
+02;06;04;Santa Bárbara de Padrões
+02;06;05;São Marcos da Ataboeira
+02;07;01;Cuba
+02;07;02;Faro do Alentejo
+02;07;03;Vila Alva
+02;07;04;Vila Ruiva
+02;08;01;Alfundão
+02;08;02;Ferreira do Alentejo
+02;08;03;Figueira dos Cavaleiros
+02;08;04;Odivelas
+02;08;05;Peroguarda
+02;08;06;Canhestros
+02;09;01;Alcaria Ruiva
+02;09;02;Corte do Pinto
+02;09;03;Espírito Santo
+02;09;04;Mértola
+02;09;05;Santana de Cambas
+02;09;06;São João dos Caldeireiros
+02;09;07;São Miguel do Pinheiro
+02;09;08;São Pedro de Solis
+02;09;09;São Sebastião dos Carros
+02;10;01;Amareleja
+02;10;02;Póvoa de São Miguel
+02;10;03;Safara
+02;10;04;Santo Agostinho
+02;10;05;Santo Aleixo da Restauração
+02;10;06;Santo Amador
+02;10;07;São João Baptista
+02;10;08;Sobral da Adiça
+02;11;01;Colos
+02;11;02;Relíquias
+02;11;03;Sabóia
+02;11;04;Santa Clara-a-Velha
+02;11;05;Santa Maria
+02;11;06;São Luís
+02;11;07;São Martinho das Amoreiras
+02;11;08;São Salvador
+02;11;09;São Teotónio
+02;11;10;Vale de Santiago
+02;11;11;Vila Nova de Milfontes
+02;11;12;Pereiras-Gare
+02;11;13;Bicos
+02;11;14;Zambujeira do Mar
+02;11;15;Luzianes-Gare
+02;11;16;Boavista dos Pinheiros
+02;11;17;Longueira/Almograve
+02;12;01;Conceição
+02;12;02;Garvão
+02;12;03;Ourique
+02;12;04;Panoias
+02;12;05;Santa Luzia
+02;12;06;Santana da Serra
+02;13;01;Vila Nova de São Bento
+02;13;02;Brinches
+02;13;03;Pias
+02;13;04;Salvador
+02;13;05;Santa Maria
+02;13;06;Vale de Vargo
+02;13;07;Vila Verde de Ficalho
+02;14;01;Pedrógão
+02;14;02;Selmes
+02;14;03;Vidigueira
+02;14;04;Vila de Frades
+03;01;01;Amares
+03;01;02;Barreiros
+03;01;03;Besteiros
+03;01;04;Bico
+03;01;05;Caires
+03;01;06;Caldelas
+03;01;07;Carrazedo
+03;01;08;Dornelas
+03;01;09;Ferreiros
+03;01;10;Figueiredo
+03;01;11;Fiscal
+03;01;12;Goães
+03;01;13;Lago
+03;01;14;Paranhos
+03;01;15;Paredes Secas
+03;01;16;Portela
+03;01;17;Prozelo
+03;01;18;Rendufe
+03;01;19;Bouro (Santa Maria)
+03;01;20;Bouro (Santa Marta)
+03;01;21;Sequeiros
+03;01;22;Seramil
+03;01;23;Torre
+03;01;24;Vilela
+03;02;01;Abade de Neiva
+03;02;02;Aborim
+03;02;03;Adães
+03;02;04;Aguiar
+03;02;05;Airó
+03;02;06;Aldreu
+03;02;07;Alheira
+03;02;08;Alvelos
+03;02;09;Arcozelo
+03;02;10;Areias
+03;02;11;Areias de Vilar
+03;02;12;Balugães
+03;02;13;Barcelinhos
+03;02;14;Barcelos
+03;02;15;Barqueiros
+03;02;16;Cambeses
+03;02;17;Campo
+03;02;18;Carapeços
+03;02;19;Carreira
+03;02;20;Carvalhal
+03;02;21;Carvalhos
+03;02;22;Chavão
+03;02;23;Chorente
+03;02;24;Cossourado
+03;02;25;Courel
+03;02;26;Couto
+03;02;27;Creixomil
+03;02;28;Cristelo
+03;02;29;Durrães
+03;02;30;Encourados
+03;02;31;Faria
+03;02;32;Feitos
+03;02;33;Fonte Coberta
+03;02;34;Fornelos
+03;02;35;Fragoso
+03;02;36;Gamil
+03;02;37;Gilmonde
+03;02;38;Goios
+03;02;39;Grimancelos
+03;02;40;Gueral
+03;02;41;Igreja Nova
+03;02;42;Lama
+03;02;43;Lijó
+03;02;44;Macieira de Rates
+03;02;45;Manhente
+03;02;46;Mariz
+03;02;47;Martim
+03;02;48;Midões
+03;02;49;Milhazes
+03;02;50;Minhotães
+03;02;51;Monte de Fralães
+03;02;52;Moure
+03;02;53;Negreiros
+03;02;54;Oliveira
+03;02;55;Palme
+03;02;56;Panque
+03;02;57;Paradela
+03;02;58;Pedra Furada
+03;02;59;Pereira
+09;01;03;Cortiçada
+09;01;04;Coruche
+09;01;05;Dornelas
+09;01;06;Eirado
+09;01;07;Forninhos
+09;01;08;Gradiz
+09;01;09;Pena Verde
+09;01;10;Pinheiro
+09;01;11;Sequeiros
+09;01;12;Souto de Aguiar da Beira
+09;01;13;Valverde
+09;02;01;Ade
+09;02;02;Aldeia Nova
+09;02;03;Almeida
+09;02;04;Amoreira
+09;02;05;Azinhal
+09;02;06;Cabreira
+09;02;07;Castelo Bom
+09;02;08;Castelo Mendo
+09;02;09;Freineda
+09;02;10;Freixo
+09;02;11;Junça
+09;02;12;Leomil
+09;02;13;Malhada Sorda
+09;02;14;Malpartida
+09;02;15;Mesquitela
+09;02;16;Mido
+09;02;17;Miuzela
+09;02;18;Monte Perobolço
+09;02;19;Nave de Haver
+09;02;20;Naves
+09;02;21;Parada
+09;02;22;Peva
+09;02;23;Porto de Ovelha
+09;02;24;São Pedro de Rio Seco
+09;02;25;Senouras
+09;02;26;Vale de Coelha
+09;02;27;Vale da Mula
+09;02;28;Vale Verde
+09;02;29;Vilar Formoso
+09;03;01;Açores
+09;03;02;Baraçal
+09;03;03;Cadafaz
+09;03;04;Carrapichana
+09;03;05;Cortiçô da Serra
+09;03;06;Forno Telheiro
+09;03;07;Lajeosa do Mondego
+09;03;08;Linhares
+09;03;09;Maçal do Chão
+09;03;10;Mesquitela
+09;03;11;Minhocal
+09;03;12;Prados
+09;03;13;Rapa
+09;03;14;Ratoeira
+09;03;15;Salgueirais
+09;03;16;Santa Maria
+09;03;17;São Pedro
+09;03;18;Vale de Azares
+09;03;19;Velosa
+09;03;20;Vide Entre Vinhas
+09;03;21;Vila Boa do Mondego
+09;03;22;Casas do Soeiro
+09;04;01;Algodres
+09;04;02;Almofala
+09;04;03;Castelo Rodrigo
+09;04;04;Cinco Vilas
+09;04;05;Colmeal
+09;04;06;Escalhão
+09;04;07;Escarigo
+09;04;08;Figueira de Castelo Rodrigo
+09;04;09;Freixeda do Torrão
+09;04;10;Mata de Lobos
+09;04;11;Penha de Águia
+09;04;12;Quintã de Pêro Martins
+09;04;13;Reigada
+09;04;14;Vale de Afonsinho
+09;04;15;Vermiosa
+09;04;16;Vilar de Amargo
+09;04;17;Vilar Torpim
+09;05;01;Algodres
+09;05;02;Casal Vasco
+09;05;03;Cortiçô
+09;05;04;Figueiró da Granja
+09;05;05;Fornos de Algodres
+09;05;06;Fuinhas
+09;05;07;Infias
+09;05;08;Juncais
+09;05;09;Maceira
+09;05;10;Matança
+09;05;11;Muxagata
+09;05;12;Queiriz
+09;05;13;Sobral Pichorro
+09;05;14;Vila Chã
+09;05;15;Vila Ruiva
+09;05;16;Vila Soeiro do Chão
+09;06;01;Aldeias
+09;06;02;Arcozelo
+09;06;03;Cativelos
+09;06;04;Figueiró da Serra
+09;06;05;Folgosinho
+09;06;06;Freixo da Serra
+09;06;07;Lagarinhos
+09;06;08;Mangualde da Serra
+09;06;09;Melo
+09;06;10;Moimenta da Serra
+09;06;11;Nabais
+09;06;12;Nespereira
+09;06;13;Paços da Serra
+09;06;14;Ribamondego
+09;06;15;Rio Torto
+09;06;16;São Julião
+09;06;17;São Paio
+09;06;18;São Pedro
+09;06;19;Vila Cortes da Serra
+09;06;20;Vila Franca da Serra
+09;06;21;Vila Nova de Tazem
+09;06;22;Vinhó
+09;07;00;Indefinida
+09;07;01;Adão
+09;07;02;Albardo
+09;07;03;Aldeia do Bispo
+09;07;04;Aldeia Viçosa
+09;07;05;Alvendre
+09;07;06;Arrifana
+09;07;07;Avelãs de Ambom
+09;07;08;Avelãs da Ribeira
+09;07;09;Benespera
+09;07;10;Carvalhal Meão
+09;07;11;Casal de Cinza
+09;07;12;Castanheira
+09;07;13;Cavadoude
+09;07;14;Codesseiro
+09;07;15;Corujeira
+09;07;16;Faia
+09;07;17;Famalicão
+09;07;18;Fernão Joanes
+09;07;19;Gagos
+09;07;20;Gonçalo
+09;07;21;Gonçalo Bocas
+09;07;22;João Antão
+09;07;23;Maçainhas
+09;07;24;Marmeleiro
+09;07;25;Meios
+09;07;26;Mizarela
+09;07;27;Monte Margarida
+09;07;28;Panoias de Cima
+09;07;29;Pega
+09;07;30;Pêra do Moco
+09;07;31;Pêro Soares
+09;07;32;Porto da Carne
+09;07;33;Pousada
+09;07;34;Ramela
+09;07;35;Ribeira dos Carinhos
+09;07;36;Rocamondo
+09;07;37;Rochoso
+09;07;38;Santana da Azinha
+09;07;39;São Miguel Jarmelo
+09;07;40;São Pedro Jarmelo
+09;07;41;São Vicente
+09;07;42;Sé
+09;07;43;Seixo Amarelo
+09;07;44;Sobral da Serra
+09;07;45;Trinta
+09;07;46;Vale de Estrela
+09;07;47;Valhelhas
+09;07;48;Vela
+09;07;49;Videmonte
+09;07;50;Vila Cortês do Mondego
+09;07;51;Vila Fernando
+09;07;52;Vila Franca do Deão
+09;07;53;Vila Garcia
+09;07;54;Vila Soeiro
+09;07;55;São Miguel da Guarda
+09;08;00;Indefinida
+09;08;01;Sameiro
+09;08;02;Santa Maria
+09;08;03;São Pedro
+09;08;04;Vale de Amoreira
+09;09;01;Aveloso
+09;09;02;Barreira
+09;09;03;Carvalhal
+09;09;04;Casteição
+09;09;05;Coriscada
+09;09;06;Fonte Longa
+09;09;07;Longroiva
+09;09;08;Marialva
+09;09;09;Meda
+09;09;10;Outeiro de Gatos
+09;09;11;Pai Penela
+09;09;12;Poço do Canto
+09;09;13;Prova
+09;09;14;Rabaçal
+09;09;15;Ranhados
+09;09;16;Vale Flor
+09;10;01;Alverca da Beira
+09;10;02;Atalaia
+09;10;03;Azevo
+09;10;04;Bogalhal
+09;10;05;Bouça Cova
+09;10;06;Cerejo
+09;10;07;Cidadelhe
+09;10;08;Ervas Tenras
+09;10;09;Ervedosa
+09;10;10;Freixedas
+09;10;11;Gouveia
+09;10;12;Lamegal
+09;10;13;Lameiras
+09;10;14;Manigoto
+09;10;15;Pala
+09;10;16;Pereiro
+09;10;17;Pinhel
+09;10;18;Pínzio
+09;10;19;Pomares
+09;10;20;Póvoa de El-Rei
+09;10;21;Safurdão
+09;10;22;Santa Eufémia
+09;10;23;Sorval
+09;10;24;Souro Pires
+09;10;25;Valbom
+09;10;26;Vale da Madeira
+09;10;27;Vascoveiro
+09;11;01;Águas Belas
+09;11;02;Aldeia do Bispo
+09;11;03;Aldeia da Ponte
+09;11;04;Aldeia da Ribeira
+09;11;05;Aldeia de Santo António
+09;11;06;Aldeia Velha
+09;11;07;Alfaiates
+09;11;08;Badamalos
+09;11;09;Baraçal
+04;05;24;Peredo
+04;05;25;Podence
+04;05;26;Salselas
+04;05;27;Santa Combinha
+04;05;28;Sesulfe
+04;05;29;Soutelo Mourisco
+04;05;30;Talhas
+04;05;31;Talhinhas
+04;05;32;Vale Benfeito
+04;05;33;Vale da Porca
+04;05;34;Vale de Prados
+04;05;35;Vilar do Monte
+04;05;36;Vilarinho de Agrochão
+04;05;37;Vilarinho do Monte
+04;05;38;Vinhas
+04;06;01;Atenor
+04;06;02;Cicouro
+04;06;03;Constantim
+04;06;04;Duas Igrejas
+04;06;05;Genísio
+04;06;06;Ifanes
+04;06;07;Malhadas
+04;06;08;Miranda do Douro
+04;06;09;Palaçoulo
+04;06;10;Paradela
+04;06;11;Picote
+04;06;12;Póvoa
+04;06;13;São Martinho de Angueira
+04;06;14;Sendim
+04;06;15;Silva
+04;06;16;Vila Chã de Braciosa
+04;06;17;Águas Vivas
+04;07;01;Abambres
+04;07;02;Abreiro
+04;07;03;Aguieiras
+04;07;04;Alvites
+04;07;05;Avantos
+04;07;06;Avidagos
+04;07;07;Barcel
+04;07;08;Bouça
+04;07;09;Cabanelas
+04;07;10;Caravelas
+04;07;11;Carvalhais
+04;07;12;Cedães
+04;07;13;Cobro
+04;07;14;Fradizela
+04;07;15;Franco
+04;07;16;Frechas
+04;07;17;Freixeda
+04;07;18;Lamas de Orelhão
+04;07;19;Marmelos
+04;07;20;Mascarenhas
+04;07;21;Mirandela
+04;07;22;Múrias
+04;07;23;Navalho
+04;07;24;Passos
+04;07;25;Pereira
+04;07;26;Romeu
+04;07;27;São Pedro Velho
+04;07;28;São Salvador
+04;07;29;Suçães
+04;07;30;Torre de Dona Chama
+04;07;31;Vale de Asnes
+04;07;32;Vale de Gouvinhas
+04;07;33;Vale de Salgueiro
+04;07;34;Vale de Telhas
+04;07;35;Valverde
+04;07;36;Vila Boa
+04;07;37;Vila Verde
+04;08;01;Azinhoso
+04;08;02;Bemposta
+04;08;03;Bruçó
+04;08;04;Brunhoso
+04;08;05;Brunhosinho
+04;08;06;Castanheira
+04;08;07;Castelo Branco
+04;08;08;Castro Vicente
+04;08;09;Meirinhos
+04;08;10;Mogadouro
+04;08;11;Paradela
+04;08;12;Penas Roias
+04;08;13;Peredo da Bemposta
+04;08;14;Remondes
+04;08;15;Saldanha
+04;08;16;Sanhoane
+04;08;17;São Martinho do Peso
+04;08;18;Soutelo
+04;08;19;Tó
+04;08;20;Travanca
+04;08;21;Urrós
+04;08;22;Vale da Madre
+04;08;23;Vale de Porco
+04;08;24;Valverde
+04;08;25;Ventozelo
+04;08;26;Vila de Ala
+04;08;27;Vilar de Rei
+04;08;28;Vilarinho dos Galegos
+04;09;01;Açoreira
+04;09;02;Adeganha
+04;09;03;Cabeça Boa
+04;09;04;Cardanha
+04;09;05;Carviçais
+04;09;06;Castedo
+04;09;07;Felgar
+04;09;08;Felgueiras
+04;09;09;Horta da Vilariça
+04;09;10;Larinho
+04;09;11;Lousa
+04;09;12;Maçores
+04;09;13;Mós
+04;09;14;Peredo dos Castelhanos
+04;09;15;Souto da Velha
+04;09;16;Torre de Moncorvo
+04;09;17;Urros
+04;10;01;Assares
+04;10;02;Benlhevai
+04;10;03;Candoso
+04;10;04;Carvalho de Egas
+04;10;05;Freixiel
+04;10;06;Lodões
+04;10;07;Mourão
+04;10;08;Nabo
+04;10;09;Roios
+04;10;10;Samões
+04;10;11;Sampaio
+04;10;12;Santa Comba de Vilariça
+04;10;13;Seixo de Manhoses
+04;10;14;Trindade
+04;10;15;Vale Frechoso
+04;10;16;Valtorno
+04;10;17;Vila Flor
+04;10;18;Vilarinho das Azenhas
+04;10;19;Vilas Boas
+04;11;01;Algoso
+04;11;02;Angueira
+04;11;03;Argozelo
+04;11;04;Avelanoso
+04;11;05;Caçarelhos
+04;11;06;Campo de Víboras
+04;11;07;Carção
+04;11;08;Matela
+04;11;09;Pinelo
+04;11;10;Santulhão
+04;11;11;Uva
+04;11;12;Vale de Frades
+04;11;13;Vilar Seco
+04;11;14;Vimioso
+04;12;01;Agrochão
+04;12;02;Alvaredos
+04;12;03;Candedo
+04;12;04;Celas
+04;12;05;Curopos
+04;12;06;Edral
+04;12;07;Edrosa
+04;12;08;Ervedosa
+04;12;09;Fresulfe
+04;12;10;Mofreita
+04;12;11;Moimenta
+04;12;12;Montouto
+04;12;13;Nunes
+04;12;14;Ousilhão
+04;12;15;Paçó
+04;12;16;Penhas Juntas
+04;12;17;Pinheiro Novo
+04;12;18;Quirás
+04;12;19;Rebordelo
+04;12;20;Santa Cruz
+04;12;21;Santalha
+04;12;22;São Jomil
+04;12;23;Sobreiro de Baixo
+04;12;24;Soeira
+04;12;25;Travanca
+04;12;26;Tuizelo
+04;12;27;Vale das Fontes
+04;12;28;Vale de Janeiro
+04;12;29;Vila Boa de Ousilhão
+04;12;30;Vila Verde
+04;12;31;Vilar de Lomba
+04;12;32;Vilar de Ossos
+04;12;33;Vilar de Peregrinos
+04;12;34;Vilar Seco de Lomba
+04;12;35;Vinhais
+05;01;01;Belmonte
+05;01;02;Caria
+05;01;03;Colmeal da Torre
+05;01;04;Inguias
+05;01;05;Maçaínhas
+05;02;01;Alcains
+05;02;02;Almaceda
+05;02;03;Benquerenças
+05;02;04;Cafede
+05;02;05;Castelo Branco
+05;02;06;Cebolais de Cima
+05;02;07;Escalos de Baixo
+05;02;08;Escalos de Cima
+05;02;09;Freixial do Campo
+05;02;10;Juncal do Campo
+05;02;11;Lardosa
+05;02;12;Louriçal do Campo
+05;02;13;Lousa
+05;02;14;Malpica do Tejo
+05;02;15;Mata
+05;02;16;Monforte da Beira
+05;02;17;Ninho do Açor
+05;02;18;Póvoa de Rio de Moinhos
+05;02;19;Retaxo
+05;02;20;Salgueiro do Campo
+05;02;21;Santo André das Tojeiras
+05;02;22;São Vicente da Beira
+05;02;23;Sarzedas
+05;02;24;Sobral do Campo
+05;02;25;Tinalhas
+05;03;00;Indefinida
+05;03;01;Vila do Carvalho
+05;03;02;Aldeia São Francisco Assis
+05;03;03;Aldeia do Souto
+05;03;04;Barco
+05;03;05;Boidobra
+05;03;06;Casegas
+05;03;07;Conceição
+05;03;08;Cortes do Meio
+05;03;09;Dominguizo
+05;03;10;Erada
+05;03;11;Ferro
+05;03;12;Orjais
+05;03;13;Ourondo
+05;03;14;Paul
+05;03;15;Peraboa
+05;03;16;Peso
+05;03;17;Santa Maria
+05;03;18;São Jorge da Beira
+05;03;19;São Martinho
+05;03;20;São Pedro
+05;03;21;Sarzedo
+05;03;22;Sobral de São Miguel
+05;03;23;Teixoso
+05;03;24;Tortosendo
+05;03;25;Unhais da Serra
+05;03;26;Vale Formoso
+05;03;27;Verdelhos
+05;03;28;Vales do Rio
+05;03;29;Coutada
+05;03;30;Cantar-Galo
+05;03;31;Canhoso
+05;04;01;Alcaide
+05;04;02;Alcaria
+05;04;03;Alcongosta
+05;04;04;Aldeia de Joanes
+05;04;05;Aldeia Nova do Cabo
+05;04;06;Alpedrinha
+05;04;07;Atalaia do Campo
+05;04;08;Barroca
+05;04;09;Bogas de Baixo
+05;04;10;Bogas de Cima
+05;04;11;Capinha
+05;04;12;Castelejo
+05;04;13;Castelo Novo
+05;04;14;Donas
+05;04;15;Escarigo
+05;04;16;Fatela
+05;04;17;Fundão
+05;04;18;Janeiro de Cima
+05;04;19;Lavacolhos
+05;04;20;Orca
+05;04;21;Pêro Viseu
+05;04;22;Póvoa de Atalaia
+05;04;23;Salgueiro
+05;04;24;Silvares
+05;04;25;Soalheira
+05;04;26;Souto da Casa
+05;04;27;Telhado
+05;04;28;Vale de Prazeres
+05;04;29;Valverde
+05;04;30;Mata da Rainha
+05;04;31;Enxames
+05;05;01;Alcafozes
+05;05;02;Aldeia de Santa Margarida
+05;05;03;Idanha-a-Nova
+05;05;04;Idanha-a-Velha
+05;05;05;Ladoeiro
+05;05;06;Medelim
+05;05;07;Monfortinho
+05;05;08;Monsanto
+05;05;09;Oledo
+05;05;10;Penha Garcia
+05;05;11;Proença-a-Velha
+05;05;12;Rosmaninhal
+05;05;13;Salvaterra do Extremo
+05;05;14;São Miguel de Acha
+05;05;17;Zebreira
+05;06;01;Álvaro
+05;06;02;Amieira
+05;06;03;Cambas
+05;06;04;Estreito
+05;06;05;Isna
+05;06;06;Madeirã
+05;06;07;Mosteiro
+05;06;08;Oleiros
+05;06;09;Orvalho
+05;06;10;Sarnadas de São Simão
+05;06;11;Sobral
+05;06;12;Vilar Barroco
+05;07;01;Águas
+05;07;02;Aldeia do Bispo
+05;07;03;Aldeia de João Pires
+05;07;04;Aranhas
+05;07;05;Bemposta
+05;07;06;Benquerença
+05;07;07;Meimão
+05;07;08;Meimoa
+05;07;09;Pedrógão de São Pedro
+05;07;10;Penamacor
+05;07;11;Salvador
+05;07;12;Vale da Senhora da Póvoa
+05;08;01;Alvito da Beira
+05;08;02;Montes da Senhora
+05;08;03;Peral
+05;08;04;Proença-a-Nova
+05;08;05;São Pedro do Esteval
+05;08;06;Sobreira Formosa
+05;09;01;Cabeçudo
+05;09;02;Carvalhal
+05;09;03;Castelo
+05;09;04;Cernache do Bonjardim
+05;09;05;Cumeada
+05;09;06;Ermida
+05;09;07;Figueiredo
+05;09;08;Marmeleiro
+05;09;09;Nesperal
+05;09;10;Palhais
+05;09;11;Pedrógão Pequeno
+05;09;12;Sertã
+05;09;13;Troviscal
+05;09;14;Várzea dos Cavaleiros
+05;10;01;Fundada
+05;10;02;São João do Peso
+05;10;03;Vila de Rei
+05;11;01;Fratel
+05;11;02;Perais
+05;11;03;Sarnadas de Rodão
+05;11;04;Vila Velha de Ródão
+06;01;01;Anceriz
+06;01;02;Arganil
+06;01;03;Barril de Alva
+06;01;04;Benfeita
+06;01;05;Celavisa
+06;01;06;Cepos
+06;01;07;Cerdeira
+06;01;08;Coja
+06;01;09;Folques
+06;01;10;Moura da Serra
+06;01;11;Piódão
+06;01;12;Pomares
+06;01;13;Pombeiro da Beira
+06;01;14;São Martinho da Cortiça
+06;01;15;Sarzedo
+06;01;16;Secarias
+06;01;17;Teixeira
+06;01;18;Vila Cova de Alva
+06;02;01;Ançã
+06;02;02;Bolho
+06;02;03;Cadima
+06;02;04;Cantanhede
+06;02;05;Cordinhã
+06;02;06;Covões
+06;02;07;Febres
+06;02;08;Murtede
+06;02;09;Ourentã
+06;02;10;Outil
+06;02;11;Pocariça
+06;02;12;Portunhos
+06;02;13;Sepins
+06;02;14;Tocha
+06;02;15;São Caetano
+06;02;16;Corticeiro de Cima
+06;02;17;Vilamar
+06;02;18;Sanguinheira
+06;02;19;Camarneira
+06;03;01;Almalaguês
+06;03;02;Almedina
+06;03;03;Ameal
+06;03;04;Antanhol
+06;03;05;Antuzede
+06;03;06;Arzila
+06;03;07;Assafarge
+06;03;08;Botão
+06;03;09;Brasfemes
+06;03;10;Castelo Viegas
+06;03;11;Ceira
+06;03;12;Cernache
+06;03;13;Eiras
+06;03;14;Lamarosa
+06;03;15;Ribeira de Frades
+06;03;16;Santa Clara
+06;03;17;Santa Cruz
+06;03;18;Santo António dos Olivais
+06;03;19;São Bartolomeu
+06;03;20;São João do Campo
+06;03;21;São Martinho de Árvore
+06;03;22;São Martinho do Bispo
+06;03;23;São Paulo de Frades
+06;03;24;São Silvestre
+06;03;25;Sé Nova
+06;03;26;Souselas
+06;03;27;Taveiro
+06;03;28;Torre de Vilela
+06;03;29;Torres do Mondego
+06;03;30;Trouxemil
+06;03;31;Vil de Matos
+06;04;01;Anobra
+06;04;02;Belide
+06;04;03;Bem da Fé
+06;04;04;Condeixa-a-Nova
+06;04;05;Condeixa-a-Velha
+06;04;06;Ega
+06;04;07;Furadouro
+06;04;08;Sebal
+06;04;09;Vila Seca
+06;04;10;Zambujal
+06;05;01;Alhadas
+06;05;02;Alqueidão
+06;05;03;Brenha
+06;05;04;Buarcos
+06;05;05;Ferreira-a-Nova
+06;05;06;Lavos
+06;05;07;Maiorca
+06;05;08;Marinha das Ondas
+06;05;09;Paião
+06;05;10;Quiaios
+06;05;11;São Julião (Figueira da Foz)
+06;05;12;Tavarede
+06;05;13;Vila Verde
+06;05;14;São Pedro
+06;05;15;Bom Sucesso
+06;05;16;Santana
+06;05;17;Borda do Campo
+06;05;18;Moinhos da Gândara
+06;06;01;Alvares
+06;06;02;Cadafaz
+06;06;03;Colmeal
+06;06;04;Góis
+05;05;15;Segura
+05;05;16;Toulões
+06;06;05;Vila Nova do Ceira
+06;07;01;Casal de Ermio
+06;07;02;Foz de Arouce
+06;07;03;Lousã
+06;07;04;Serpins
+06;07;05;Vilarinho
+06;07;06;Gândaras
+06;08;01;Mira
+06;08;02;Seixo
+06;08;03;Carapelhos
+06;08;04;Praia de Mira
+06;09;01;Lamas
+06;09;02;Miranda do Corvo
+06;09;03;Rio Vide
+06;09;04;Semide
+06;09;05;Vila Nova
+06;10;01;Abrunheira
+06;10;02;Arazede
+06;10;03;Carapinheira
+06;10;04;Gatões
+06;10;05;Liceia
+06;10;06;Meãs do Campo
+06;10;07;Montemor-o-Velho
+06;10;08;Pereira
+06;10;09;Santo Varão
+06;10;10;Seixo de Gatões
+06;10;11;Tentúgal
+06;10;12;Verride
+06;10;13;Vila Nova da Barca
+06;10;14;Ereira
+06;11;01;Aldeia das Dez
+06;11;02;Alvoco das Várzeas
+06;11;03;Avô
+06;11;04;Bobadela
+06;11;05;Ervedal
+06;11;06;Lagares da Beira
+06;11;07;Lagos da Beira
+06;11;08;Lajeosa
+06;11;09;Lourosa
+06;11;10;Meruge
+06;11;11;Nogueira do Cravo
+06;11;12;Oliveira do Hospital
+06;11;13;Penalva de Alva
+06;11;14;Santa Ovaia
+06;11;15;São Gião
+06;11;16;São Paio de Gramaços
+06;11;17;São Sebastião da Feira
+06;11;18;Seixo da Beira
+06;11;19;Travanca de Lagos
+06;11;20;Vila Pouca da Beira
+06;11;21;Vila Franca da Beira
+06;12;01;Cabril
+06;12;02;Dornelas do Zêzere
+06;12;03;Fajão
+06;12;04;Janeiro de Baixo
+06;12;05;Machio
+06;12;06;Pampilhosa da Serra
+06;12;07;Pessegueiro
+06;12;08;Portela do Fojo
+06;12;09;Unhais-o-Velho
+06;12;10;Vidual
+06;13;01;Carvalho
+06;13;02;Figueira de Lorvão
+06;13;03;Friúmes
+06;13;04;Lorvão
+06;13;05;Oliveira do Mondego
+06;13;06;Paradela
+06;13;07;Penacova
+06;13;08;São Paio do Mondego
+06;13;09;São Pedro de Alva
+06;13;10;Sazes do Lorvão
+06;13;11;Travanca do Mondego
+06;14;01;Cumeeira
+06;14;02;Espinhal
+06;14;03;Podentes
+06;14;04;Rabaçal
+06;14;05;Santa Eufémia
+06;14;06;São Miguel
+06;15;01;Alfarelos
+06;15;02;Brunhós
+06;15;03;Degracias
+06;15;04;Figueiró do Campo
+06;15;05;Gesteira
+06;15;06;Granja do Ulmeiro
+06;15;07;Pombalinho
+06;15;08;Samuel
+06;15;09;Soure
+06;15;10;Tapéus
+06;15;11;Vila Nova de Anços
+06;15;12;Vinha da Rainha
+06;16;01;Ázere
+06;16;02;Candosa
+06;16;03;Carapinha
+06;16;04;Covas
+06;16;05;Covelo
+06;16;06;Espariz
+06;16;07;Meda de Mouros
+06;16;08;Midões
+06;16;09;Mouronho
+06;16;10;Pinheiro de Coja
+06;16;11;Póvoa de Midões
+06;16;12;São João da Boa Vista
+06;16;13;Sinde
+06;16;14;Tábua
+06;16;15;Vila Nova de Oliveirinha
+06;17;01;Arrifana
+06;17;02;Lavegadas
+06;17;03;Poiares (Santo André)
+06;17;04;São Miguel de Poiares
+07;01;01;Nossa Senhora da Conceição
+07;01;02;Juromenha (Nossa Senhora do Loreto)
+07;01;03;Santiago Maior
+07;01;04;Santo António (Capelins)
+07;01;05;São Pedro Terena
+07;01;06;São Brás dos Matos
+07;02;01;Arraiolos
+07;02;02;Igrejinha
+07;02;03;Santa Justa
+07;02;04;São Gregório
+07;02;05;São Pedro Gafanhoeira
+07;02;06;Vimieiro
+07;02;07;Sabugueiro
+07;03;00;Indefinida
+07;03;01;Matriz (Borba)
+07;03;02;Orada
+07;03;03;Rio de Moinhos
+07;03;04;São Bartolomeu
+07;04;00;Indefinida
+07;04;01;Arcos
+07;04;02;Glória
+07;04;03;Santa Maria
+07;04;04;Évora Monte (Santa Maria)
+07;04;05;Santa Vitória do Ameixial
+07;04;06;Santo André Estremoz
+07;04;07;Santo Estevão
+07;04;08;São Bento do Ameixial
+07;04;09;São Bento de Ana Loura
+07;04;10;São Bento do Cortiço
+07;04;11;São Domingos de Ana Loura
+07;04;12;São Lourenço de Mamporcão
+07;04;13;Veiros
+07;05;00;Indefinida
+07;05;01;Nossa Senhora da Boa Fé
+07;05;02;Nossa Senhora Graça do Divor
+07;05;03;Nossa Senhora de Machede
+07;05;04;Nossa Senhora da Tourega
+07;05;05;Santo Antão
+07;05;06;São Bento do Mato
+07;05;07;São Mamede
+07;05;08;São Manços
+07;05;09;São Miguel de Machede
+07;05;11;São Vicente do Pigeiro
+07;05;13;Torre de Coelheiros
+07;05;14;São Sebastião da Giesteira
+07;05;15;Canaviais
+07;05;16;Nossa Senhora de Guadalupe
+07;05;17;Bacelo
+07;05;18;Horta das Figueiras
+07;05;19;Malagueira
+07;05;20;Évora (Sé e São Pedro)
+07;05;21;Senhora da Saúde
+07;06;01;Cabrela
+07;06;02;Lavre
+03;02;60;Perelhal
+03;02;61;Pousa
+03;02;62;Quintiães
+03;02;63;Remelhe
+03;02;64;Roriz
+03;02;65;Rio Covo (Santa Eugénia)
+03;02;66;Rio Covo (Santa Eulália)
+03;02;67;Tamel (Santa Leocádia)
+03;02;68;Galegos (Santa Maria)
+03;02;69;Bastuço (Santo Estevão)
+03;02;70;Bastuço (São João)
+03;02;71;Alvito (São Martinho)
+03;02;72;Galegos (São Martinho)
+03;02;73;Vila Frescainha (São Martinho)
+03;02;74;Alvito (São Pedro)
+03;02;75;Vila Frescainha (São Pedro)
+03;02;76;Tamel (São Pedro Fins)
+03;02;77;Tamel (São Veríssimo)
+03;02;78;Sequeade
+03;02;79;Silva
+03;02;80;Silveiros
+03;02;81;Tregosa
+03;02;82;Ucha
+03;02;83;Várzea
+03;02;84;Viatodos
+03;02;85;Vila Boa
+03;02;86;Vila Cova
+03;02;87;Vila Seca
+03;02;88;Vilar de Figos
+03;02;89;Vilar do Monte
+03;03;01;Adaúfe
+03;03;02;Arcos
+03;03;03;Arentim
+03;03;04;Aveleda
+03;03;05;Cabreiros
+03;03;06;Celeirós
+03;03;07;Cividade
+03;03;08;Crespos
+03;03;09;Cunha
+03;03;10;Dume
+03;03;11;Escudeiros
+03;03;12;Espinho
+03;03;13;Esporões
+03;03;14;Ferreiros
+03;03;15;Figueiredo
+03;03;16;Fraião
+03;03;17;Frossos
+03;03;18;Gondizalves
+03;03;19;Gualtar
+03;03;20;Guisande
+03;03;21;Lamaçães
+03;03;22;Lamas
+03;03;23;Lomar
+03;03;24;Maximinos
+03;03;25;Mire de Tibães
+03;03;26;Morreira
+03;03;27;Navarra
+03;03;28;Nogueira
+03;03;29;Nogueiró
+03;03;30;Padim da Graça
+03;03;31;Palmeira
+03;03;32;Panoias
+03;03;33;Parada de Tibães
+03;03;34;Pedralva
+03;03;35;Pousada
+03;03;36;Priscos
+03;03;37;Real
+03;03;38;Ruílhe
+03;03;39;Santa Lucrécia de Algeriz
+03;03;40;Penso (Santo Estêvão)
+03;03;41;São João do Souto
+03;03;42;São José de São Lázaro
+03;03;43;Passos (São Julião)
+03;03;44;São Mamede Este
+03;03;45;São Paio Merelim
+03;03;46;São Pedro (Este)
+03;03;47;São Pedro Merelim
+03;03;48;São Pedro Oliveira
+03;03;49;São Vicente
+03;03;50;São Vicente Penso
+03;03;51;São Victor
+03;03;52;Sé
+03;03;53;Semelhe
+03;03;54;Sequeira
+03;03;55;Sobreposta
+03;03;56;Tadim
+03;03;57;Tebosa
+03;03;58;Tenões
+03;03;59;Trandeiras
+03;03;60;Vilaça
+03;03;61;Vimieiro
+03;03;62;Fradelos
+03;04;01;Abadim
+03;04;02;Alvite
+03;04;03;Arco de Baúlhe
+03;04;04;Basto
+03;04;05;Bucos
+03;04;06;Cabeceiras de Basto
+03;04;07;Cavez
+03;04;08;Faia
+03;04;09;Gondiães
+03;04;10;Outeiro
+03;04;11;Painzela
+03;04;12;Passos
+03;04;13;Pedraça
+03;04;14;Refojos de Basto
+03;04;15;Rio Douro
+03;04;16;Vila Nune
+03;04;17;Vilar de Cunhas
+03;05;01;Agilde
+03;05;02;Arnoia
+03;05;03;Borba de Montanha
+03;05;04;Britelo
+03;05;05;Caçarilhe
+03;05;06;Canedo de Basto
+03;05;07;Carvalho
+03;05;08;Codeçoso
+03;05;09;Corgo
+03;05;10;Fervença
+03;05;11;Gagos
+03;05;12;Gémeos
+03;05;13;Infesta
+03;05;14;Molares
+03;05;15;Moreira do Castelo
+03;05;16;Ourilhe
+03;05;17;Rego
+03;05;18;Ribas
+03;05;19;Basto (Santa Tecla)
+03;05;20;Basto (São Clemente)
+03;05;21;Vale de Bouro
+03;05;22;Veade
+03;06;01;Antas
+03;06;02;Apúlia
+03;06;03;Belinho
+03;06;04;Curvos
+03;06;05;Esposende
+03;06;06;Fão
+03;06;07;Fonte Boa
+03;06;08;Forjães
+03;06;09;Gandra
+03;06;10;Gemeses
+03;06;11;Mar
+03;06;12;Marinhas
+03;06;13;Palmeira de Faro
+03;06;14;Rio Tinto
+03;06;15;Vila Chã
+03;07;01;Aboim
+03;07;02;Agrela
+03;07;03;Antime
+03;07;04;Ardegão
+03;07;05;Armil
+03;07;06;Arnozela
+03;07;07;Cepães
+03;07;08;Estorãos
+03;07;09;Fafe
+03;07;10;Fareja
+03;07;11;Felgueiras
+03;07;12;Fornelos
+03;07;13;Freitas
+03;07;14;Golães
+03;07;15;Gontim
+03;07;16;Medelo
+03;07;17;Monte
+03;07;18;Moreira do Rei
+03;07;19;Passos
+03;07;20;Pedraído
+03;07;21;Queimadela
+03;07;22;Quinchães
+03;07;23;Regadas
+03;07;24;Revelhe
+03;07;25;Ribeiros
+03;07;26;Arões (Santa Cristina)
+03;07;27;São Clemente (Silvares)
+03;07;28;São Gens
+03;07;29;São Martinho (Silvares)
+03;07;30;Arões (São Romão)
+03;07;31;Seidões
+03;07;32;Serafão
+03;07;33;Travassós
+03;07;34;Várzea Cova
+03;07;35;Vila Cova
+03;07;36;Vinhós
+03;08;01;Aldão
+03;08;02;Arosa
+03;08;03;Atães
+03;08;04;Azurém
+03;08;05;Balazar
+03;08;06;Barco
+03;08;07;Brito
+03;08;08;Caldelas
+03;08;09;Calvos
+03;08;10;Castelões
+03;08;11;Conde
+03;08;12;Costa
+03;08;13;Creixomil
+03;08;14;Donim
+03;08;15;Fermentões
+03;08;16;Figueiredo
+03;08;17;Gandarela
+03;08;18;Gémeos
+03;08;19;Gominhães
+03;08;20;Gonça
+03;08;21;Gondar
+03;08;22;Gondomar
+03;08;23;Guardizela
+03;08;24;Infantas
+03;08;26;Leitões
+03;08;27;Longos
+03;08;28;Lordelo
+03;08;29;Mascotelos
+03;08;30;Mesão Frio
+03;08;31;Moreira de Cónegos
+03;08;32;Nespereira
+03;08;33;São Vicente de Oleiros
+03;08;34;Oliveira do Castelo
+03;08;35;Pencelo
+03;08;36;Pinheiro
+03;08;37;Polvoreira
+03;08;38;Ponte
+03;08;39;Rendufe
+03;08;40;Ronfe
+03;08;41;Salvador (Briteiros)
+03;08;42;Santa Eufémia Prazins
+03;08;43;Santa Leocádia (Briteiros)
+03;08;44;Santa Maria (Airão)
+03;08;45;Souto (Santa Maria)
+03;08;46;Santiago (Candoso)
+03;08;47;Santo Estevão (Briteiros)
+03;08;48;Santo Tirso (Prazins)
+03;08;49;São Clemente Sande
+03;08;50;São Cristóvão (Selho)
+03;08;51;São Faustino
+03;08;53;São João Airão
+03;08;54;São Jorge (Selho)
+03;08;55;São Lourenço Sande
+03;08;56;São Lourenço (Selho)
+03;08;57;São Martinho (Candoso)
+03;08;58;São Martinho Sande
+03;08;60;São Paio (Guimarães)
+03;08;62;Souto (São Salvador)
+03;08;63;São Sebastião (Guimarães)
+03;08;64;São Tomé Abação
+03;08;65;São Torcato
+03;08;66;Serzedelo
+03;08;67;Serzedo
+03;08;68;Silvares
+03;08;69;Tabuadelo
+03;08;71;Urgezes
+03;08;72;Vermil
+03;08;73;Vila Nova Sande
+03;08;74;Corvite
+03;09;01;Águas Santas
+03;09;02;Ajude
+03;09;03;Brunhais
+03;09;04;Calvos
+03;09;05;Campos
+03;09;06;Covelas
+03;09;07;Esperança
+03;09;08;Ferreiros
+03;09;09;Fonte Arcada
+03;09;10;Frades
+03;09;11;Friande
+03;09;12;Galegos
+03;09;13;Garfe
+03;09;14;Geraz do Minho
+03;09;15;Lanhoso
+03;09;16;Louredo
+03;09;17;Monsul
+03;09;18;Moure
+03;09;19;Nossa Senhora do Amparo
+03;09;20;Oliveira
+03;09;21;Rendufinho
+03;09;22;Santo Emilião
+03;09;23;São João de Rei
+03;09;24;Serzedelo
+03;09;25;Sobradelo da Goma
+03;09;26;Taíde
+03;09;27;Travassos
+03;09;28;Verim
+03;09;29;Vilela
+03;10;01;Balança
+03;10;02;Brufe
+03;10;03;Campo do Gerês
+03;10;04;Carvalheira
+03;10;05;Chamoim
+03;10;06;Chorense (Santa Marinha)
+03;10;07;Cibões
+03;10;08;Covide (São Mamede)
+03;10;09;Gondoriz
+03;10;10;Moimenta (Santo André)
+03;10;11;Monte (Santa Isabel)
+03;10;12;Ribeira
+03;10;13;Rio Caldo
+03;10;14;Souto
+03;10;15;Valdosende
+03;10;16;Vilar
+03;10;17;Vilar da Veiga
+03;11;01;Anissó
+03;11;02;Anjos
+03;11;03;Campos
+03;11;04;Caniçada
+03;11;05;Cantelães
+03;11;06;Cova
+03;11;07;Eira Vedra
+03;11;08;Guilhofrei
+03;11;09;Louredo
+03;11;10;Mosteiro
+03;11;11;Parada do Bouro
+03;11;12;Pinheiro
+03;11;13;Rossas
+03;11;14;Ruivães
+03;11;15;Salamonde
+03;11;16;Soengas
+03;11;17;Soutelo
+03;11;18;Tabuaças
+03;11;19;Ventosa
+03;11;20;Vieira do Minho
+03;11;21;Vilar Chão
+03;12;01;Abade de Vermoim
+03;12;02;Antas
+03;12;03;Avidos
+03;12;04;Bairro
+03;12;05;Bente
+03;12;06;Brufe
+03;12;07;Cabeçudos
+03;12;08;Calendário
+03;12;09;Carreira
+03;12;10;Castelões
+03;12;11;Cavalões
+03;12;12;Cruz
+03;12;13;Delães
+03;12;14;Esmeriz
+03;12;15;Fradelos
+03;12;16;Gavião
+03;12;17;Gondifelos
+03;12;18;Jesufrei
+03;12;19;Joane
+03;12;20;Lagoa
+03;12;21;Landim
+03;12;22;Lemenhe
+03;12;23;Louro
+03;12;24;Lousado
+03;12;25;Mogege
+03;12;26;Mouquim
+03;12;27;Nine
+03;12;28;Novais
+03;12;29;Outiz
+03;12;30;Pedome
+03;12;31;Portela
+03;12;32;Pousada de Saramagos
+03;12;33;Requião
+03;12;34;Riba de Ave
+03;12;35;Ribeirão
+03;12;36;Ruivães
+03;12;37;Arnoso (Santa Eulália)
+03;12;38;Arnoso (Santa Maria)
+03;12;39;Santa Maria Oliveira
+03;12;40;São Cosme Vale
+03;12;41;São Martinho Vale
+03;12;42;São Mateus Oliveira
+03;12;43;São Miguel Seide
+03;12;44;São Paio Seide
+03;12;45;Sezures
+03;12;46;Telhado
+03;12;47;Vermoim
+03;12;48;Vila Nova de Famalicão
+03;12;49;Vilarinho das Cambas
+03;13;01;Aboim da Nóbrega
+03;13;02;Arcozelo
+03;13;03;Atães
+03;13;04;Atiães
+03;13;05;Azões
+03;13;06;Barbudo
+03;13;07;Barros
+03;13;08;Cabanelas
+03;13;09;Cervães
+03;13;10;Codeceda
+03;13;11;Coucieiro
+03;13;12;Covas
+03;13;13;Dossãos
+03;13;14;Duas Igrejas
+03;13;15;Esqueiros
+03;13;16;Freiriz
+03;13;17;Geme
+03;13;18;Goães (São Pedro)
+03;13;19;Godinhaços
+03;13;20;Gomide
+03;13;21;Gondiães
+03;13;22;Gondomar
+03;13;23;Lage
+03;13;24;Lanhas
+03;13;25;Loureira
+03;13;26;Marrancos
+03;13;27;Mós
+03;13;28;Moure
+03;13;29;Nevogilde
+03;13;30;Oleiros
+03;13;31;Parada de Gatim
+03;13;32;Passó
+03;13;33;Pedregais
+03;13;34;Penascais
+03;13;35;Pico
+03;13;36;Pico de Regalados
+03;13;37;Ponte
+03;13;38;Portela das Cabras
+03;13;39;Rio Mau
+03;13;40;Sabariz
+03;13;41;Sande
+03;13;42;Vila de Prado
+03;13;43;Oriz (Santa Marinha)
+03;13;44;Santiago Carreiras
+03;13;45;São Mamede (Escariz)
+03;13;46;São Martinho (Escariz)
+03;13;47;São Martinho Valbom
+03;13;48;São Miguel Carreiras
+03;13;49;Oriz (São Miguel)
+03;13;50;Prado (São Miguel)
+03;13;51;São Pedro Valbom
+03;13;52;Soutelo
+03;13;53;Travassós
+03;13;54;Turiz
+03;13;55;Valdreu
+03;13;56;Valões
+03;13;57;Vila Verde
+03;13;58;Vilarinho
+03;14;01;Santa Eulália
+03;14;02;São João (Caldas de Vizela)
+03;14;03;São Miguel (Caldas de Vizela)
+03;14;04;Infias
+03;14;05;Tagilde
+03;14;06;Vizela (Santo Adrião)
+03;14;07;Vizela (São Paio)
+04;01;01;Agrobom
+04;01;02;Alfândega da Fé
+04;01;03;Cerejais
+04;01;04;Eucisia
+04;01;05;Ferradosa
+04;01;06;Gebelim
+04;01;07;Gouveia
+04;01;08;Parada
+04;01;09;Pombal
+04;01;10;Saldonha
+04;01;11;Sambade
+04;01;12;Sendim da Ribeira
+04;01;13;Sendim da Serra
+04;01;14;Soeima
+04;01;15;Vale Pereiro
+04;01;16;Vales
+04;01;17;Valverde
+04;01;18;Vilar Chão
+04;01;19;Vilarelhos
+04;01;20;Vilares de Vilariça
+04;02;01;Alfaião
+04;02;02;Aveleda
+04;02;03;Babe
+04;02;04;Baçal
+04;02;05;Calvelhe
+04;02;06;Carragosa
+04;02;07;Carrazedo
+04;02;08;Castrelos
+04;02;09;Castro de Avelãs
+04;02;10;Coelhoso
+04;02;11;Deilão
+04;02;12;Donai
+04;02;13;Espinhosela
+04;02;14;Failde
+04;02;15;França
+04;02;16;Gimonde
+04;02;17;Gondesende
+04;02;18;Gostei
+04;02;19;Grijó de Parada
+04;02;20;Izeda
+04;02;21;Macedo do Mato
+04;02;22;Meixedo
+04;02;23;Milhão
+04;02;24;Mós
+04;02;25;Nogueira
+04;02;26;Outeiro
+04;02;27;Parada
+04;02;28;Paradinha Nova
+04;02;29;Parâmio
+04;02;30;Pinela
+04;02;31;Pombares
+04;02;32;Quintanilha
+04;02;33;Quintela de Lampaças
+04;02;34;Rabal
+04;02;35;Rebordainhos
+04;02;36;Rebordãos
+04;02;37;Rio Frio
+04;02;38;Rio de onor
+04;02;39;Salsas
+04;02;40;Samil
+04;02;41;Santa Comba de Rossas
+04;02;42;Santa Maria
+04;02;43;São Julião de Palácios
+04;02;44;São Pedro de Serracenos
+04;02;45;Sé
+04;02;46;Sendas
+04;02;47;Serapicos
+04;02;48;Sortes
+04;02;49;Zoio
+04;03;01;Amedo
+04;03;02;Beira Grande
+04;03;03;Belver
+04;03;04;Carrazeda de Ansiães
+04;03;05;Castanheiro
+04;03;06;Fonte Longa
+04;03;07;Lavandeira
+04;03;08;Linhares
+04;03;09;Marzagão
+04;03;10;Mogo de Malta
+04;03;11;Parambos
+04;03;12;Pereiros
+04;03;13;Pinhal do Norte
+04;03;14;Pombal
+04;03;15;Ribalonga
+04;03;16;Seixo de Ansiães
+04;03;17;Selores
+04;03;18;Vilarinho da Castanheira
+04;03;19;Zedes
+04;04;01;Fornos
+04;04;02;Freixo de Espada à Cinta
+04;04;03;Lagoaça
+04;04;04;Ligares
+04;04;05;Mazouco
+04;04;06;Poiares
+04;05;01;Ala
+04;05;02;Amendoeira
+04;05;03;Arcas
+04;05;04;Bagueixe
+04;05;05;Bornes
+04;05;06;Burga
+04;05;07;Carrapatas
+04;05;08;Castelãos
+04;05;09;Chacim
+04;05;10;Cortiços
+04;05;11;Corujas
+04;05;12;Edroso
+04;05;13;Espadanedo
+04;05;14;Ferreira
+04;05;15;Grijó
+04;05;16;Lagoa
+04;05;17;Lamalonga
+04;05;18;Lamas
+04;05;19;Lombo
+04;05;20;Macedo de Cavaleiros
+04;05;21;Morais
+04;05;22;Murçós
+04;05;23;Olmos
+11;14;11;Forte da Casa
+11;15;01;Alfragide
+11;15;02;Brandoa
+11;15;03;Buraca
+11;15;04;Damaia
+11;15;05;Falagueira
+11;15;06;Mina
+11;15;07;Reboleira
+11;15;08;Venteira
+11;15;09;Alfornelos
+11;15;10;São Brás
+11;15;11;Venda Nova
+11;16;01;Caneças
+11;16;02;Famões
+11;16;03;Odivelas
+11;16;04;Olival Basto
+11;16;05;Pontinha
+11;16;06;Póvoa de Santo Adrião
+11;16;07;Ramada
+12;01;01;Alter do Chão
+12;01;02;Chancelaria
+12;01;03;Seda
+12;01;04;Cunheira
+12;02;01;Assunção
+12;02;02;Esperança
+12;02;03;Mosteiros
+12;03;01;Alcórrego
+12;03;02;Aldeia Velha
+12;03;03;Avis
+12;03;04;Benavila
+12;03;05;Ervedal
+12;03;06;Figueira e Barros
+12;03;07;Maranhão
+12;03;08;Valongo
+12;04;01;Nossa Senhora da Expectação
+12;04;02;Nossa Senhora Graça Degolados
+12;04;03;São João Batista
+12;05;01;Nossa Senhora Graça Póvoa Meadas
+12;05;02;Santa Maria da Devesa
+12;05;03;Santiago Maior
+12;05;04;São João Batista
+12;06;01;Aldeia da Mata
+12;06;02;Crato e Mártires
+12;06;03;Flor da Rosa
+12;06;04;Gáfete
+12;06;05;Monte da Pedra
+12;06;06;Vale do Peso
+12;07;01;Ajuda São Salvador Santo Ildefonso
+12;07;02;Alcáçova
+12;07;03;Assunção
+12;07;04;Barbacena
+12;07;05;Caia e São Pedro
+12;07;06;Santa Eulália
+12;07;07;São Brás e São Lourenço
+12;07;08;São Vicente e Ventosa
+12;07;09;Terrugem
+12;07;10;Vila Boim
+12;07;11;Vila Fernando
+12;08;01;Cabeço de Vide
+12;08;02;Fronteira
+12;08;03;São Saturnino
+12;09;01;Atalaia
+12;09;02;Belver
+12;09;03;Comenda
+12;09;04;Gavião
+12;09;05;Margem
+12;10;01;Beirã
+12;10;02;Santa Maria de Marvão
+12;10;03;Santo António das Areias
+12;10;04;São Salvador da Aramenha
+12;11;01;Assumar
+12;11;02;Monforte
+12;11;03;Santo Aleixo
+12;11;04;Vaiamonte
+12;12;01;Alpalhão
+12;12;02;Amieira do Tejo
+12;12;03;Arez
+12;12;04;Espírito Santo
+12;12;05;Montalvão
+12;12;06;Nossa Senhora da Graça
+12;12;07;Santana
+12;12;08;São Matias
+12;12;09;São Simão
+12;12;10;Tolosa
+12;13;01;Galveias
+12;13;02;Montargil
+12;13;03;Ponte de Sor
+12;13;04;Foros de Arrão
+12;13;05;Longomel
+12;13;06;Vale de Açor
+12;13;07;Tramaga
+12;14;00;Indefinida
+12;14;01;Alagoa
+12;14;02;Alegrete
+12;14;03;Carreiras
+12;14;04;Fortios
+12;14;05;Reguengo
+12;14;06;Ribeira de Nisa
+12;14;07;São Julião
+12;14;08;São Lourenço
+12;14;09;Sé
+12;14;10;Urra
+12;15;01;Cano
+12;15;02;Casa Branca
+12;15;03;Santo Amaro
+12;15;04;Sousel
+13;01;01;Aboadela
+13;01;02;Aboim
+13;01;03;Ansiães
+13;01;04;Ataíde
+13;01;05;Bustelo
+13;01;06;Canadelo
+13;01;07;Candemil
+13;01;08;Carneiro
+13;01;09;Carvalho de Rei
+13;01;10;Cepelos
+13;01;11;Chapa
+13;01;12;Fregim
+13;01;13;Freixo de Baixo
+13;01;14;Freixo de Cima
+13;01;15;Fridão
+13;01;16;Gatão
+13;01;17;Gondar
+13;01;18;Jazente
+13;01;19;Lomba
+13;01;20;Louredo
+13;01;21;Lufrei
+13;01;22;Madalena
+13;01;23;Mancelos
+13;01;24;Oliveira
+13;01;25;Olo
+13;01;26;Padronelo
+13;01;27;Real
+13;01;28;Rebordelo
+13;01;29;Salvador do Monte
+13;01;30;Sanche
+13;01;31;Figueiró (Santa Cristina)
+13;01;32;Figueiró (Santiago)
+13;01;33;São Gonçalo
+13;01;34;São Simão
+13;01;35;Telões
+13;01;36;Travanca
+13;01;37;Várzea
+13;01;38;Vila Caiz
+13;01;39;Vila Chã do Marão
+13;01;40;Vila Garcia
+13;02;01;Ancede
+13;02;02;Campelo
+13;02;03;São Tomé de Covelas
+13;02;04;Frende
+13;02;05;Gestaçô
+13;02;06;Gove
+13;02;07;Grilo
+13;02;08;Loivos do Monte
+13;02;09;Loivos da Ribeira
+13;02;10;Mesquinhata
+13;02;11;Ovil
+13;02;12;Ribadouro
+13;02;13;Santa Cruz do Douro
+13;02;14;Santa Leocádia (Baião)
+13;02;15;Santa Marinha do Zêzere
+13;02;16;Teixeira
+13;02;17;Teixeiró
+13;02;18;Tresouras
+13;02;19;Valadares
+13;02;20;Viariz
+13;03;01;Aião
+13;03;02;Airães
+13;03;03;Borba de Godim
+13;03;04;Caramos
+13;03;05;Friande
+13;03;06;Idães
+13;03;07;Jugueiros
+13;03;08;Lagares
+13;03;09;Lordelo
+13;03;10;Macieira da Lixa
+13;03;11;Moure
+13;03;12;Pedreira
+13;03;13;Penacova
+13;03;14;Pinheiro
+13;03;15;Pombeiro de Ribavizela
+13;03;16;Rande
+13;03;17;Refontoura
+13;03;18;Regilde
+13;03;19;Revinhade
+13;03;20;Margaride Santa Eulália
+13;03;21;Santão
+13;03;23;Vizela (São Jorge)
+13;03;24;Sendim
+13;03;25;Sernande
+13;03;26;Sousa
+13;03;27;Torrados
+13;03;28;Unhão
+13;03;29;Várzea
+13;03;30;Varziela
+13;03;31;Vila Cova da Lixa
+13;03;32;Vila Fria
+13;03;33;Vila Verde
+13;04;01;Covelo
+13;04;02;Fânzeres
+13;04;03;Foz do Sousa
+13;04;04;Jovim
+13;04;05;Lomba
+13;04;06;Medas
+13;04;07;Melres
+13;04;08;Rio Tinto
+13;04;09;São Cosme
+13;04;10;São Pedro da Cova
+13;04;11;Valbom
+13;04;12;Baguim do Monte
+13;05;01;Alvarenga
+13;05;02;Aveleda
+13;05;03;Boim
+13;05;04;Caíde de Rei
+13;05;05;Casais
+13;05;06;Cernadelo
+13;05;07;Covas
+13;05;08;Cristelos
+13;05;09;Figueiras
+13;05;10;Lodares
+13;05;11;Lustosa
+13;05;12;Macieira
+13;05;13;Meinedo
+13;05;14;Nespereira
+13;05;15;Nevogilde
+13;05;16;Nogueira
+13;05;17;Ordem
+13;05;18;Pias
+13;05;20;Lousada (Santa Margarida)
+13;05;21;Santo Estevão (Barrosas)
+13;05;22;Lousada (São Miguel)
+13;05;23;Silvares
+13;05;24;Sousela
+13;05;25;Torno
+13;05;26;Vilar do Torno e Alentém
+13;06;01;Águas Santas
+13;06;02;Barca
+13;06;03;Folgosa
+13;06;04;Gemunde
+13;06;05;Gondim
+13;06;06;Gueifães
+13;06;07;Maia
+13;06;08;Milheirós
+13;06;09;Moreira
+13;06;10;Nogueira
+13;06;11;Avioso (Santa Maria)
+13;06;12;Avioso (São Pedro)
+13;06;13;São Pedro Fins
+13;06;14;Silva Escura
+13;06;15;Vermoim
+13;06;16;Vila Nova da Telha
+13;06;17;Pedrouços
+13;07;01;Alpendurada e Matos
+13;07;02;Ariz
+13;07;03;Avessadas
+13;07;04;Banho e Carvalhosa
+13;07;05;Constance
+13;07;06;Favões
+13;07;07;Folhada
+13;07;08;Fornos
+13;07;09;Freixo
+13;07;10;Magrelos
+13;07;11;Manhuncelos
+13;07;12;Maureles
+13;07;13;Paços de Gaiolo
+13;07;14;Paredes de Viadores
+13;07;15;Penha Longa
+13;07;16;Rio de Galinhas
+13;07;17;Rosem
+13;07;18;Sande
+13;07;19;Santo Isidoro
+13;07;20;São Lourenço do Douro
+13;07;21;São Nicolau
+13;07;22;Soalhães
+13;07;23;Sobretâmega
+13;07;24;Tabuado
+13;07;25;Torrão
+13;07;26;Toutosa
+13;07;27;Tuias
+13;07;28;Várzea do Douro
+13;07;29;Várzea Ovelha e Aliviada
+13;07;30;Vila Boa do Bispo
+13;07;31;Vila Boa de Quires
+13;08;01;Custóias
+13;08;02;Guifões
+13;08;03;Lavra
+13;08;04;Leça do Balio
+13;08;05;Leça da Palmeira
+13;08;06;Matosinhos
+13;08;07;Perafita
+13;08;08;Santa Cruz do Bispo
+13;08;09;São Mamede de Infesta
+13;08;10;Senhora da Hora
+13;09;01;Arreigada
+13;09;02;Carvalhosa
+13;09;03;Codessos
+13;09;04;Eiriz
+13;09;05;Ferreira
+13;09;06;Figueiró
+13;09;07;Frazão
+13;09;08;Freamunde
+13;09;09;Lamoso
+13;09;10;Meixomil
+13;09;11;Modelos
+13;09;12;Paços de Ferreira
+13;09;13;Penamaior
+13;09;14;Raimonda
+13;09;15;Sanfins de Ferreira
+13;09;16;Seroa
+13;10;01;Aguiar de Sousa
+13;10;02;Astromil
+13;10;03;Baltar
+13;10;04;Beire
+13;10;05;Besteiros
+13;10;06;Bitarães
+13;10;07;Castelões de Cepeda
+13;10;08;Cete
+13;10;09;Cristelo
+13;10;10;Duas Igrejas
+13;10;11;Gandra
+13;10;12;Gondalães
+13;10;13;Lordelo
+13;10;14;Louredo
+13;10;15;Madalena
+13;10;16;Mouriz
+13;10;17;Parada de Todeia
+13;10;18;Rebordosa
+13;10;19;Recarei
+13;10;20;Sobreira
+13;10;21;Sobrosa
+13;10;22;Vandoma
+13;10;23;Vila Cova de Carros
+13;10;24;Vilela
+13;11;01;Abragão
+13;11;02;Boelhe
+13;11;03;Bustelo
+13;11;04;Cabeça Santa
+13;11;05;Canelas
+13;11;06;Capela
+13;11;07;Castelões
+13;11;08;Croca
+13;11;09;Duas Igrejas
+13;11;10;Eja
+13;11;11;Figueira
+13;11;12;Fonte Arcada
+13;11;13;Galegos
+13;11;14;Guilhufe
+13;11;15;Irivo
+13;11;16;Lagares
+13;11;17;Luzim
+13;11;18;Marecos
+13;11;19;Milhundos
+13;11;20;Novelas
+13;11;21;Oldrões
+13;11;22;Paço de Sousa
+13;11;23;Paredes
+13;11;24;Penafiel
+13;11;25;Perozelo
+13;11;26;Pinheiro
+13;11;27;Portela
+13;11;28;Rans
+13;11;29;Rio de Moinhos
+13;11;30;Santa Marta
+13;11;31;Santiago de Subarrifana
+13;11;32;São Mamede Recezinhos
+13;11;33;São Martinho Recezinhos
+13;11;34;Sebolido
+13;11;35;Urrô
+13;11;36;Valpedre
+13;11;37;Vila Cova
+13;11;38;Rio Mau
+13;12;00;Indefinida
+13;12;01;Aldoar
+13;12;02;Bonfim
+13;12;03;Campanhã
+13;12;04;Cedofeita
+13;12;05;Foz do Douro
+13;12;06;Lordelo do Ouro
+13;12;07;Massarelos
+13;12;08;Miragaia
+13;12;09;Nevogilde
+13;12;10;Paranhos
+13;12;11;Ramalde
+13;12;12;Santo Ildefonso
+13;12;13;São Nicolau
+13;12;14;Sé
+13;12;15;Vitória
+13;13;01;A Ver-o-Mar
+13;13;02;Aguçadoura
+13;13;03;Amorim
+13;13;04;Argivai
+13;13;05;Balazar
+13;13;06;Beiriz
+13;13;07;Estela
+13;13;08;Laúndos
+13;13;09;Navais
+13;13;10;Póvoa de Varzim
+13;13;11;Rates
+13;13;12;Terroso
+13;14;01;Agrela
+13;14;02;Água Longa
+13;14;04;Areias
+13;14;05;Aves
+13;14;06;Burgães
+13;14;07;Carreira
+13;14;10;Guimarei
+13;14;11;Lama
+13;14;12;Lamelas
+13;14;13;Monte Córdova
+13;14;15;Palmeira
+13;14;16;Rebordões
+13;14;17;Refojos de Riba de Ave
+13;14;18;Reguenga
+13;14;19;Roriz
+13;14;20;Couto (Santa Cristina)
+13;14;22;Santo Tirso
+13;14;24;São Mamede Negrelos
+13;14;26;São Martinho Campo
+13;14;27;Couto (São Miguel)
+13;14;29;São Salvador do Campo
+13;14;30;São Tomé Negrelos
+13;14;31;Sequeiró
+13;14;32;Vilarinho
+13;15;01;Alfena
+13;15;02;Campo
+13;15;03;Ermesinde
+13;15;04;Sobrado
+13;15;05;Valongo
+13;16;01;Arcos
+13;16;02;Árvore
+13;16;03;Aveleda
+13;16;04;Azurara
+13;16;05;Bagunte
+13;16;06;Canidelo
+13;16;07;Fajozes
+13;16;08;Ferreiró
+13;16;09;Fornelo
+13;16;10;Gião
+13;16;11;Guilhabreu
+13;16;12;Junqueira
+13;16;13;Labruge
+13;16;14;Macieira da Maia
+13;16;15;Malta
+13;16;16;Mindelo
+13;16;17;Modivas
+13;16;18;Mosteiró
+13;16;19;Outeiro Maior
+13;16;20;Parada
+13;16;21;Retorta
+13;16;22;Rio Mau
+13;16;23;Tougues
+13;16;24;Touguinha
+13;16;25;Touguinhó
+13;16;26;Vairão
+13;16;27;Vila Chã
+13;16;28;Vila do Conde
+13;16;29;Vilar
+13;16;30;Vilar de Pinheiro
+13;17;01;Arcozelo
+13;17;02;Avintes
+13;17;03;Canelas
+13;17;04;Canidelo
+13;17;05;Crestuma
+13;17;06;Grijó
+13;17;07;Gulpilhares
+13;17;08;Lever
+13;17;09;Madalena
+13;17;10;Mafamude
+13;17;11;Olival
+13;17;12;Oliveira do Douro
+13;17;13;Pedroso
+13;17;14;Perosinho
+13;17;15;Sandim
+13;17;16;Santa Marinha
+13;17;17;São Felix da Marinha
+13;17;18;São Pedro da Afurada
+13;17;19;Seixezelo
+13;17;20;Sermonde
+13;17;21;Serzedo
+13;17;22;Valadares
+13;17;23;Vilar de Andorinho
+13;17;24;Vilar do Paraíso
+13;18;01;Alvarelhos
+13;18;02;Santiago (Bougado)
+13;18;03;São Martinho (Bougado)
+13;18;04;São Mamede Coronado
+13;18;05;São Romão Coronado
+13;18;06;Covelas
+13;18;07;Guidões
+13;18;08;Muro
+14;01;00;Indefinida
+14;01;01;Aldeia do Mato
+14;01;02;Alferrarede
+14;01;03;Alvega
+14;01;04;Bemposta
+14;01;05;Martinchel
+14;01;06;Mouriscas
+14;01;07;Pego
+14;01;08;Rio de Moinhos
+14;01;09;Rossio ao Sul do Tejo
+14;01;10;São Facundo
+14;01;11;São João
+14;01;12;São Miguel do Rio Torto
+14;01;13;São Vicente
+14;01;14;Souto
+14;01;15;Tramagal
+14;01;16;Vale das Mós
+14;01;17;Concavada
+14;01;18;Fontes
+14;01;19;Carvalhal
+14;02;01;Alcanena
+14;02;02;Bugalhos
+14;02;03;Espinheiro
+14;02;04;Louriceira
+14;02;05;Malhou
+14;02;06;Minde
+14;02;07;Moitas Venda
+14;02;08;Monsanto
+14;02;09;Serra de Santo António
+14;02;10;Vila Moreira
+14;03;01;Almeirim
+14;03;02;Benfica do Ribatejo
+14;03;03;Fazendas de Almeirim
+14;03;04;Raposa
+14;04;01;Alpiarça
+14;05;01;Benavente
+14;05;02;Samora Correia
+14;05;03;Santo Estevão
+14;05;04;Barrosa
+14;06;01;Cartaxo
+14;06;02;Ereira
+14;06;03;Lapa
+14;06;04;Pontével
+14;06;05;Valada
+14;06;06;Vale da Pinta
+14;06;07;Vila Chã de Ourique
+14;06;08;Vale da Pedra
+14;07;01;Chamusca
+14;07;02;Chouto
+14;07;03;Pinheiro Grande
+14;07;04;Ulme
+14;07;05;Vale de Cavalos
+14;07;06;Parreira
+14;07;07;Carregueira
+14;08;01;Constância
+14;08;02;Montalvo
+14;08;03;Santa Margarida da Coutada
+14;09;01;Coruche
+14;09;02;Couço
+14;09;03;São José da Lamarosa
+14;09;04;Fajarda
+14;09;05;Branca
+14;09;06;Erra
+14;09;07;Biscaínho
+14;09;08;Santana do Mato
+14;10;01;São João Baptista
+14;10;02;Nossa Senhora de Fátima
+14;11;01;Águas Belas
+14;11;02;Areias
+14;11;03;Beco
+14;11;04;Chãos
+14;11;05;Dornes
+14;11;06;Ferreira do Zêzere
+14;11;07;Igreja Nova do Sobral
+14;11;08;Paio Mendes
+14;11;09;Pias
+14;12;01;Azinhaga
+14;12;02;Golegã
+14;13;01;Aboboreira
+14;13;02;Amêndoa
+14;13;03;Cardigos
+14;13;04;Carvoeiro
+14;13;05;Envendos
+14;13;06;Mação
+14;13;07;Ortiga
+14;13;08;Penhascoso
+14;14;01;Alcobertas
+14;14;02;Arrouquelas
+14;14;03;Arruda dos Pisões
+14;14;04;Azambujeira
+14;14;05;Fráguas
+14;14;06;Marmeleira
+14;14;07;Outeiro da Cortiçada
+14;14;08;Rio Maior
+14;14;09;São João da Ribeira
+14;14;10;Asseiceira
+14;14;11;São Sebastião
+14;14;12;Ribeira de São João
+14;14;13;Malaqueijo
+14;14;14;Assentiz
+14;15;01;Glória do Ribatejo
+14;15;02;Marinhais
+14;15;03;Muge
+14;15;04;Salvaterra de Magos
+14;15;05;Foros de Salvaterra
+14;15;06;Granho
+14;16;01;Abitureiras
+14;16;02;Abrã
+14;16;03;Achete
+14;16;04;Alcanede
+14;16;05;Alcanhões
+14;16;06;Almoster
+14;16;07;Amiais de Baixo
+14;16;08;Arneiro das Milhariças
+14;16;09;Azoia de Baixo
+14;16;10;Azoia de Cima
+14;16;11;Casével
+14;16;12;Marvila
+14;16;13;Moçarria
+14;16;14;Pernes
+14;16;15;Pombalinho
+14;16;16;Póvoa da Isenta
+14;16;17;Póvoa de Santarém
+14;16;18;Romeira
+14;16;19;Santa Iria Ribeira Santarém
+14;16;20;São Nicolau
+14;16;21;São Salvador
+14;16;22;São Vicente do Paul
+14;16;23;Tremês
+14;16;24;Vale de Figueira
+14;16;25;Vale de Santarém
+14;16;26;Vaqueiros
+14;16;27;Várzea
+14;16;28;Gançaria
+07;06;03;Nossa Senhora do Bispo
+07;06;04;Nossa Senhora da Vila
+07;06;05;Santiago do Escoural
+07;06;06;São Cristóvão
+07;06;07;Ciborro
+07;06;08;Cortiçadas de Lavre
+07;06;09;Silveiras
+07;06;10;Foros de Vale de Figueira
+07;07;01;Brotas
+07;07;02;Cabeção
+07;07;03;Mora
+07;07;04;Pavia
+07;08;01;Granja
+07;08;02;Luz
+07;08;03;Mourão
+07;09;01;Alqueva
+07;09;02;Amieira
+07;09;03;Monte do Trigo
+07;09;04;Oriola
+07;09;05;Portel
+07;09;06;Santana
+07;09;07;São Bartolomeu do Outeiro
+07;09;08;Vera Cruz
+07;10;01;Montoito
+07;10;02;Redondo
+07;11;01;Campo
+07;11;02;Corval
+07;11;03;Monsaraz
+07;11;04;Reguengos de Monsaraz
+07;11;05;Campinho
+07;12;01;Vendas Novas
+07;12;02;Landeira
+07;13;01;Alcáçovas
+07;13;02;Viana do Alentejo
+07;13;03;Aguiar
+07;14;00;Indefinida
+07;14;01;Bencatel
+07;14;02;Ciladas
+07;14;03;Conceição
+07;14;04;Pardais
+07;14;05;São Bartolomeu
+08;01;01;Albufeira
+08;01;02;Guia
+08;01;03;Paderne
+08;01;04;Ferreiras
+08;01;05;Olhos de Água
+08;02;01;Alcoutim
+08;02;02;Giões
+08;02;03;Martim Longo
+08;02;04;Pereiro
+08;02;05;Vaqueiros
+08;03;01;Aljezur
+08;03;02;Bordeira
+08;03;03;Odeceixe
+08;03;04;Rogil
+08;04;01;Azinhal
+08;04;02;Castro Marim
+08;04;03;Odeleite
+08;04;04;Altura
+08;05;01;Conceição
+08;05;02;Estoi
+08;05;03;Santa Bárbara de Nexe
+08;05;04;São Pedro
+08;05;05;Sé
+08;05;06;Montenegro
+08;06;01;Estombar
+08;06;02;Ferragudo
+08;06;03;Lagoa
+08;06;04;Porches
+08;06;05;Carvoeiro
+08;06;06;Parchal
+08;07;01;Barão de São João
+08;07;02;Bensafrim
+08;07;03;Luz
+08;07;04;Odiáxere
+08;07;05;Santa Maria
+08;07;06;São Sebastião
+08;08;01;Almancil
+08;08;02;Alte
+08;08;03;Ameixial
+08;08;04;Boliqueime
+08;08;05;Quarteira
+08;08;06;Querença
+08;08;07;Salir
+08;08;08;São Clemente
+08;08;09;São Sebastião
+08;08;10;Benafim
+08;08;11;Tôr
+08;09;01;Alferce
+08;09;02;Marmelete
+08;09;03;Monchique
+08;10;01;Fuseta
+08;10;02;Moncarapacho
+08;10;03;Olhão
+08;10;04;Pechão
+08;10;05;Quelfes
+08;11;01;Alvor
+08;11;02;Mexilhoeira Grande
+08;11;03;Portimão
+08;12;01;São Brás de Alportel
+08;13;01;Alcantarilha
+08;13;02;Algoz
+08;13;03;Armação de Pêra
+08;13;04;Pêra
+08;13;05;São Bartolomeu de Messines
+08;13;06;São Marcos da Serra
+08;13;07;Silves
+08;13;08;Tunes
+08;14;01;Cachopo
+08;14;02;Conceição
+08;14;03;Luz
+08;14;04;Santa Catarina Fonte Bispo
+08;14;05;Santa Maria Tavira
+08;14;06;Santiago Tavira
+08;14;07;Santo Estevão
+08;14;08;Santa Luzia
+08;14;09;Cabanas de Tavira
+08;15;01;Barão de São Miguel
+08;15;02;Budens
+08;15;03;Raposeira
+08;15;04;Sagres
+08;15;05;Vila do Bispo
+08;16;01;Vila Nova de Cacela
+08;16;02;Vila Real de Santo António
+08;16;03;Monte Gordo
+09;01;01;Aguiar da Beira
+09;01;02;Carapito
+18;19;13;Sendim
+18;19;14;Tabuaço
+18;19;15;Távora
+18;19;16;Vale de Figueira
+18;19;17;Valença do Douro
+18;20;01;Dalvares
+18;20;02;Gouviães
+18;20;03;Granja Nova
+18;20;04;Mondim da Beira
+18;20;05;Salzedas
+18;20;06;São João de Tarouca
+18;20;07;Tarouca
+18;20;08;Ucanha
+18;20;09;Várzea da Serra
+18;20;10;Vila Chã da Beira
+18;21;01;Barreiro de Besteiros
+18;21;02;Campo de Besteiros
+18;21;03;Canas de Santa Maria
+18;21;04;Caparrosa
+18;21;05;Castelões
+18;21;06;Dardavaz
+18;21;07;Ferreirós do Dão
+18;21;08;Guardão
+18;21;09;Lajeosa do Dão
+18;21;10;Lobão da Beira
+18;21;11;Molelos
+18;21;12;Mosteirinho
+18;21;13;Mosteiro de Fráguas
+18;21;14;Mouraz
+18;21;15;Nandufe
+18;21;16;Parada de Gonta
+18;21;17;Sabugosa
+18;21;18;Santiago de Besteiros
+18;21;19;São João do Monte
+18;21;20;São Miguel do Outeiro
+18;21;21;Silvares
+18;21;22;Tonda
+18;21;23;Tondela
+18;21;24;Vila Nova da Rainha
+18;21;25;Vilar de Besteiros
+18;21;26;Tourigo
+18;22;01;Alhais
+18;22;02;Fráguas
+18;22;03;Pendilhe
+18;22;04;Queiriga
+18;22;05;Touro
+18;22;06;Vila Cova à Coelheira
+18;22;07;Vila Nova de Paiva
+18;23;01;Abraveses
+18;23;02;Barreiros
+18;23;03;Boa Aldeia
+18;23;04;Bodiosa
+18;23;05;Calde
+18;23;06;Campo
+18;23;07;Cavernães
+18;23;08;Cepões
+18;23;09;Coração de Jesus
+18;23;10;Cota
+18;23;11;Couto de Baixo
+18;23;12;Couto de Cima
+18;23;13;Fail
+18;23;14;Farminhão
+18;23;15;Fragosela
+18;23;16;Lordosa
+18;23;17;Silgueiros
+18;23;18;Mundão
+18;23;19;Orgens
+18;23;20;Povolide
+18;23;21;Ranhados
+18;23;22;Ribafeita
+18;23;23;Rio de Loba
+18;23;24;Santa Maria
+18;23;25;Santos Evos
+18;23;26;São Cipriano
+18;23;27;São João de Lourosa
+18;23;28;São José
+18;23;29;São Pedro de France
+18;23;30;São Salvador
+18;23;31;Torredeita
+18;23;32;Vil de Souto
+18;23;33;Vila Chã de Sá
+18;23;34;Repeses
+18;24;01;Alcofra
+18;24;02;Cambra
+18;24;03;Campia
+18;24;04;Carvalhal de Vermilhas
+18;24;05;Fataúnços
+18;24;06;Figueiredo das Donas
+18;24;07;Fornelo do Monte
+18;24;08;Paços de Vilharigues
+18;24;09;Queirã
+18;24;10;São Miguel do Mato
+18;24;11;Ventosa
+18;24;12;Vouzela
+31;01;01;Arco da Calheta
+31;01;02;Calheta
+31;01;03;Estreito da Calheta
+31;01;04;Fajã da Ovelha
+31;01;05;Jardim do Mar
+31;01;06;Paul do Mar
+31;01;07;Ponta do Pargo
+31;01;08;Prazeres
+31;02;01;Câmara de Lobos
+31;02;02;Curral das Freiras
+31;02;03;Estreito Câmara de Lobos
+31;02;04;Quinta Grande
+31;02;05;Jardim da Serra
+31;03;01;Imaculado Coração Maria
+31;03;02;Monte
+31;03;03;Santa Luzia
+31;03;04;Santa Maria Maior
+31;03;05;Santo António
+31;03;06;São Gonçalo
+31;03;07;São Martinho
+31;03;08;São Pedro
+31;03;09;São Roque
+31;03;10;Sé
+31;04;01;Água de Pena
+31;04;02;Caniçal
+31;04;03;Machico
+31;04;04;Porto da Cruz
+31;04;05;Santo António da Serra
+31;05;01;Canhas
+31;05;02;Madalena do Mar
+31;05;03;Ponta do Sol
+31;06;01;Achadas da Cruz
+31;06;02;Porto Moniz
+31;06;03;Ribeira da Janela
+31;06;04;Seixal
+31;07;01;Campanário
+31;07;02;Ribeira Brava
+31;07;03;Serra de Água
+31;07;04;Tabua
+31;08;02;Camacha
+31;08;03;Caniço
+31;08;04;Gaula
+31;08;05;Santa Cruz
+31;08;06;Santo António da Serra
+31;09;01;Arco de São Jorge
+31;09;02;Faial
+31;09;03;Santana
+31;09;04;São Jorge
+31;09;05;São Roque do Faial
+31;09;06;Ilha
+31;10;01;Boa Ventura
+31;10;02;Ponta Delgada
+31;10;03;São Vicente
+32;01;01;Porto Santo
+41;01;01;Almagreira
+41;01;02;Santa Bárbara
+41;01;03;Santo Espírito
+41;01;04;São Pedro
+41;01;05;Vila do Porto
+42;01;00;Indefinida
+42;01;01;Água de Pau
+42;01;02;Cabouco
+42;01;03;Nossa Senhora do Rosário
+42;01;04;Santa Cruz
+42;01;05;Ribeira Chã
+42;02;01;Achada
+42;02;02;Achadinha
+42;02;03;Lomba da Fazenda
+42;02;04;Nordeste
+42;02;06;Salga
+42;02;07;Santana
+42;02;08;Algarvia
+42;02;09;Santo António de Nordestinho
+42;02;10;São Pedro de Nordestinho
+42;03;00;Indefinida
+42;03;01;Arrifes
+42;03;03;Candelária
+42;03;04;Capelas
+42;03;05;Covoada
+42;03;06;Fajã de Baixo
+42;03;07;Fajã de Cima
+42;03;08;Fenais da Luz
+42;03;09;Feteiras
+42;03;10;Ginetes
+42;03;11;Mosteiros
+42;03;12;Ponta Delgada (São Sebastião)
+42;03;13;São José
+42;03;14;São Pedro
+42;03;15;Relva
+42;03;16;Remédios
+42;03;17;Rosto de Cão (Livramento)
+42;03;18;Rosto de Cão (São Roque)
+42;03;19;Santa Bárbara
+42;03;20;Santo António
+42;03;21;São Vicente Ferreira
+42;03;22;Sete Cidades
+42;03;23;Ajuda da Bretanha
+42;03;24;Pilar da Bretanha
+42;03;25;Ponta Delgada (Santa Clara)
+42;04;01;Água Retorta
+42;04;02;Faial da Terra
+42;04;03;Furnas
+42;04;04;Nossa Senhora dos Remédios
+42;04;05;Povoação
+42;04;06;Ribeira Quente
+42;05;00;Indefinida
+42;05;01;Calhetas
+42;05;02;Fenais da Ajuda
+42;05;03;Lomba da Maia
+42;05;04;Lomba de São Pedro
+42;05;05;Maia
+42;05;06;Pico da Pedra
+42;05;07;Porto Formoso
+42;05;08;Rabo de Peixe
+42;05;09;Conceição
+42;05;10;Ribeira Grande (Matriz)
+42;05;11;Ribeira Seca
+42;05;12;Ribeirinha
+42;05;13;Santa Bárbara
+42;05;14;São Brás
+42;06;01;Água de Alto
+42;06;02;Ponta Garça
+42;06;03;Ribeira das Tainhas
+42;06;04;São Miguel
+42;06;05;São Pedro
+42;06;06;Ribeira Seca
+43;01;01;Altares
+43;01;02;Nossa Senhora da Conceição
+43;01;03;Santa Luzia
+43;01;04;São Pedro
+43;01;05;Sé
+43;01;06;Cinco Ribeiras
+43;01;07;Doze Ribeiras
+43;01;08;Feteira
+43;01;09;Porto Judeu
+43;01;10;Posto Santo
+43;01;11;Raminho
+43;01;12;Ribeirinha
+43;01;13;Santa Bárbara
+43;01;14;São Bartolomeu de Regatos
+43;01;15;São Bento
+43;01;16;São Mateus
+43;01;17;Serreta
+43;01;18;Terra Chã
+43;01;19;Vila de São Sebastião
+43;02;01;Agualva
+43;02;02;Biscoitos
+43;02;03;Cabo da Praia
+43;02;04;Fonte do Bastardo
+43;02;05;Fontinhas
+43;02;06;Lajes
+43;02;07;Praia da Vitória (Santa Cruz)
+43;02;08;Quatro Ribeiras
+43;02;09;São Brás
+43;02;10;Vila Nova
+43;02;11;Porto Martins
+44;01;01;Guadalupe
+44;01;02;Luz
+44;01;03;São Mateus
+44;01;04;Santa Cruz da Graciosa
+45;01;01;Calheta
+45;01;02;Norte Pequeno
+45;01;03;Ribeira Seca
+45;01;04;Santo Antão
+45;01;05;Topo Nossa Senhora Rosário
+45;02;01;Santa Bárbara (Manadas)
+45;02;02;Norte Grande (Neves)
+45;02;03;Rosais
+45;02;04;Santo Amaro
+45;02;05;Urzelina (São Mateus)
+45;02;06;São Jorge (Velas)
+46;01;01;Calheta de Nesquim
+46;01;02;Lajes do Pico
+46;01;03;Piedade
+46;01;04;Ribeiras
+46;01;05;Ribeirinha
+46;01;06;São João
+46;02;01;Bandeiras
+46;02;02;Candelária
+46;02;03;Criação Velha
+46;02;04;Madalena
+46;02;05;São Caetano
+46;02;06;São Mateus
+46;03;01;Prainha
+46;03;02;Santa Luzia
+46;03;03;Santo Amaro
+46;03;04;Santo António
+46;03;05;São Roque do Pico
+47;01;01;Capelo
+47;01;02;Castelo Branco
+47;01;03;Cedros
+47;01;04;Feteira
+47;01;05;Flamengos
+47;01;06;Angústias (Horta)
+47;01;07;Conceição (Horta)
+47;01;08;Horta (Matriz)
+47;01;09;Pedro Miguel
+47;01;10;Praia do Almoxarife
+47;01;11;Praia do Norte
+47;01;12;Ribeirinha
+47;01;13;Salão
+48;01;01;Fajã Grande
+48;01;02;Fajãzinha
+48;01;03;Fazenda
+48;01;04;Lajedo
+48;01;05;Lajes das Flores
+48;01;06;Lomba
+48;01;07;Mosteiro
+48;02;01;Caveira
+48;02;02;Cedros
+48;02;03;Ponta Delgada
+48;02;04;Santa Cruz das Flores
+49;01;01;Corvo
+11;08;07;São Bartolomeu Galegos
+11;08;08;Vimeiro
+11;08;09;Marteleira
+11;08;10;Ribamar
+11;08;11;Atalaia
+11;09;01;Azueira
+11;09;02;Carvoeira
+11;09;03;Cheleiros
+11;09;04;Encarnação
+11;09;05;Enxara do Bispo
+11;09;06;Ericeira
+11;09;07;Gradil
+11;09;08;Igreja Nova
+11;09;09;Mafra
+11;09;10;Malveira
+11;09;11;Milharado
+11;09;12;Santo Estevão das Galés
+11;09;13;Santo Isidoro
+11;09;14;Sobral da Abelheira
+11;09;15;Vila Franca do Rosário
+11;09;16;Venda do Pinheiro
+11;09;17;São Miguel de Alcainça
+11;10;02;Barcarena
+11;10;03;Carnaxide
+11;10;04;Oeiras e São Julião Barra
+11;10;05;Paço de Arcos
+11;10;06;Algés
+11;10;07;Cruz Quebrada-Dafundo
+11;10;08;Linda a Velha
+11;10;09;Porto Salvo
+11;10;10;Queijas
+11;10;11;Caxias
+11;11;02;Algueirão-Mem Martins
+11;11;03;Almargem do Bispo
+11;11;04;Belas
+11;11;05;Colares
+11;11;06;Montelavar
+11;11;07;Queluz
+11;11;08;Rio de Mouro
+11;11;09;Santa Maria e São Miguel
+11;11;10;São João das Lampas
+11;11;11;São Martinho
+11;11;12;São Pedro Penaferrim
+11;11;13;Terrugem
+11;11;14;Pero Pinheiro
+11;11;15;Casal de Cambra
+11;11;16;Massamá
+11;11;17;Monte Abraão
+11;11;18;Agualva
+11;11;19;Cacém
+11;11;20;Mira-Sintra
+11;11;21;São Marcos
+11;12;00;Indefinida
+11;12;01;São Quintino
+11;12;02;Sapataria
+11;12;03;Sobral de Monte Agraço
+11;13;01;A dos Cunhados
+11;13;02;Campelos
+11;13;03;Carmões
+11;13;04;Carvoeira
+11;13;05;Dois Portos
+11;13;06;Freiria
+11;13;07;Matacães
+11;13;08;Maxial
+11;13;09;Monte Redondo
+11;13;10;Ponte do Rol
+11;13;11;Ramalhal
+11;13;12;Runa
+11;13;13;Santa Maria e São Miguel
+11;13;14;São Pedro da Cadeira
+11;13;15;São Pedro e São Tiago
+11;13;16;Silveira
+11;13;17;Turcifal
+11;13;18;Ventosa
+11;13;19;Outeiro da Cabeça
+11;13;20;Maceira
+11;14;01;Alhandra
+11;14;02;Alverca do Ribatejo
+11;14;03;Cachoeiras
+11;14;04;Calhandriz
+11;14;05;Castanheira do Ribatejo
+11;14;06;Póvoa de Santa Iria
+11;14;07;São João dos Montes
+11;14;08;Vialonga
+11;14;09;Vila Franca de Xira
+11;14;10;Sobralinho
+17;06;11;Fiães do Rio
+17;06;12;Gralhas
+17;06;13;Meixedo
+17;06;14;Meixide
+17;06;15;Montalegre
+17;06;16;Morgade
+17;06;17;Mourilhe
+17;06;18;Negrões
+17;06;19;Outeiro
+17;06;20;Padornelos
+17;06;21;Padroso
+17;06;22;Paradela
+17;06;23;Pitões das Junias
+17;06;24;Pondras
+17;06;25;Reigoso
+17;06;26;Salto
+17;06;27;Santo André
+17;06;28;Vilar Perdizes (São Miguel)
+17;06;29;Sarraquinhos
+17;06;30;Sezelhe
+17;06;31;Solveira
+17;06;32;Tourém
+17;06;33;Venda Nova
+17;06;34;Viade de Baixo
+17;06;35;Vila da Ponte
+17;07;01;Candedo
+17;07;02;Carva
+17;07;03;Fiolhoso
+17;07;04;Jou
+17;07;05;Murça
+17;07;06;Noura
+17;07;07;Palheiros
+17;07;08;Valongo de Milhais
+17;07;09;Vilares
+17;08;01;Covelinhas
+17;08;02;Fontelas
+17;08;03;Galafura
+17;08;04;Godim
+17;08;05;Loureiro
+17;08;06;Moura Morta
+17;08;07;Peso da Régua
+17;08;08;Poiares
+17;08;09;Sedielos
+17;08;10;Vilarinho dos Freires
+17;08;11;Vinhós
+17;08;12;Canelas
+17;09;01;Alvadia
+17;09;02;Canedo
+17;09;03;Cerva
+17;09;04;Limões
+17;09;05;Salvador
+17;09;06;Santa Marinha
+17;09;07;Santo Aleixo de Além-Tamega
+17;10;01;Celeirós
+17;10;02;Covas do Douro
+17;10;03;Gouvães do Douro
+17;10;04;Gouvinhas
+17;10;05;Parada de Pinhão
+17;10;06;Paradela de Guiães
+17;10;07;Paços
+17;10;08;Provesende
+17;10;09;Sabrosa
+17;10;10;São Cristóvão do Douro
+17;10;11;São Lourenço de Ribapinhão
+17;10;12;São Martinho de Antas
+17;10;13;Souto Maior
+17;10;14;Torre do Pinhão
+17;10;15;Vilarinho de São Romão
+17;11;01;Alvações do Corgo
+17;11;02;Cumieira
+17;11;03;Fontes
+17;11;04;Fornelos
+17;11;05;Louredo
+17;11;06;Medrões
+17;11;07;Sanhoane
+17;11;08;Lobrigos (São João Batista)
+17;11;09;São Miguel
+17;11;10;Sever
+17;12;01;Água Revês e Crasto
+17;12;02;Alvarelhos
+17;12;03;Argeriz
+17;12;04;Barreiros
+17;12;05;Bouçoães
+17;12;06;Canaveses
+17;12;07;Carrazedo de Montenegro
+17;12;08;Curros
+17;12;09;Ervões
+17;12;10;Fiães
+17;12;11;Fornos do Pinhal
+17;12;12;Friões
+17;12;13;Lebução
+17;12;14;Nozelos
+17;12;15;Padrela e Tázem
+17;12;16;Possacos
+17;12;17;Rio Torto
+17;12;18;Sanfins
+17;12;19;Santa Maria de Emeres
+17;12;20;Santa Valha
+17;12;21;Santiago Ribeira de Alhariz
+17;12;22;São João da Corveira
+17;12;23;São Pedro de Veiga de Lila
+17;12;24;Serapicos
+17;12;25;Sonim
+17;12;26;Tinhela
+17;12;27;Vales
+17;12;28;Valpaços
+17;12;29;Vassal
+17;12;30;Veiga de Lila
+17;12;31;Vilarandelo
+17;13;01;Afonsim
+17;13;02;Alfarela de Jales
+17;13;03;Bornes de Aguiar
+17;13;04;Bragado
+17;13;05;Capeludos
+17;13;06;Gouvães da Serra
+17;13;07;Parada de Monteiros
+17;13;08;Pensalvos
+17;13;09;Santa Marta da Montanha
+17;13;10;Soutelo de Aguiar
+17;13;11;Telões
+17;13;12;Tresminas
+17;13;13;Valoura
+17;13;14;Vila Pouca de Aguiar
+17;13;15;Vreia de Bornes
+17;13;16;Vreia de Jales
+17;13;17;Sabroso de Aguiar
+17;13;18;Lixa do Alvão
+17;14;01;Abaças
+17;14;02;Adoufe
+17;14;03;Andrães
+17;14;04;Arroios
+17;14;05;Borbela
+17;14;06;Campeã
+17;14;07;Constantim
+17;14;08;Ermida
+17;14;09;Folhadela
+17;14;10;Guiães
+17;14;11;Justes
+17;14;12;Lamares
+17;14;13;Lamas de Olo
+17;14;14;Lordelo
+17;14;15;Mateus
+17;14;16;Mondrões
+17;14;17;Mouçós
+17;14;18;Nogueira
+17;14;19;Nossa Senhora da Conceição
+17;14;20;Parada de Cunhos
+17;14;21;Pena
+17;14;22;Quinta
+17;14;23;São Diniz
+17;14;24;São Pedro
+17;14;25;São Tomé do Castelo
+17;14;26;Torgueda
+17;14;27;Vale de Nogueiras
+17;14;28;Vila Cova
+17;14;29;Vila Marim
+17;14;30;Vilarinho de Samardã
+18;01;01;Aldeias
+18;01;02;Aricera
+18;01;03;Armamar
+18;01;04;Cimbres
+18;01;05;Coura
+18;01;06;Folgosa
+18;01;07;Fontelo
+18;01;08;Goujoim
+18;01;09;Queimada
+18;01;10;Queimadela
+18;01;11;Santa Cruz
+18;01;12;Santiago
+18;01;13;Santo Adrião
+18;01;14;São Cosmado
+18;01;15;São Martinho das Chãs
+18;01;16;São Romão
+18;01;17;Tões
+18;01;18;Vacalar
+18;01;19;Vila Seca
+18;02;00;Indefinida
+18;02;01;Beijós
+18;02;02;Cabanas de Viriato
+18;02;03;Currelos
+18;02;04;Oliveira do Conde
+18;02;05;Papízios
+18;02;06;Parada
+18;02;07;Sobral
+18;03;01;Almofala
+18;03;02;Alva
+18;03;03;Cabril
+18;03;04;Castro Daire
+18;03;05;Cujó
+18;03;06;Ermida
+18;03;07;Ester
+18;03;08;Gafanhão
+18;03;09;Gosende
+18;03;10;Mamouros
+18;03;11;Mezio
+18;03;12;Mões
+18;03;13;Moledo
+18;03;14;Monteiras
+18;03;15;Moura Morta
+18;03;16;Parada de Ester
+18;03;17;Pepim
+18;03;18;Picão
+18;03;19;Pinheiro
+18;03;20;Reriz
+18;03;21;Ribolhos
+18;03;22;São Joaninho
+18;04;01;Alhões
+18;04;02;Bustelo
+18;04;03;Cinfães
+18;04;04;Espadanedo
+18;04;05;Ferreiros de Tendais
+18;04;06;Fornelos
+18;04;07;Gralheira
+18;04;08;Moimenta
+18;04;09;Nespereira
+18;04;10;Oliveira
+18;04;11;Ramires
+18;04;12;Santiago de Piães
+18;04;13;São Cristóvão de Nogueira
+18;04;14;Souselo
+18;04;15;Tarouquela
+18;04;16;Tendais
+18;04;17;Travanca
+18;05;00;Indefinida
+18;05;01;Almacave
+18;05;02;Avões
+18;05;03;Bigorne
+18;05;04;Britiande
+18;05;05;Cambres
+18;05;06;Cepões
+18;05;07;Ferreirim
+18;05;08;Ferreiros de Avões
+18;05;09;Figueira
+18;05;10;Lalim
+18;05;11;Lazarim
+18;05;12;Magueija
+18;05;13;Meijinhos
+18;05;14;Melcões
+18;05;15;Parada do Bispo
+18;05;16;Penajóia
+18;05;17;Penude
+18;05;18;Pretarouca
+18;05;19;Samodães
+18;05;20;Sande
+18;05;21;Sé
+18;05;22;Valdigem
+18;05;23;Várzea de Abrunhais
+18;05;24;Vila Nova Souto D'El-Rei
+18;06;01;Abrunhosa-a-Velha
+18;06;02;Alcafache
+18;06;03;Chãs de Tavares
+18;06;04;Cunha Alta
+18;06;05;Cunha Baixa
+18;06;06;Espinho
+18;06;07;Fornos de Maceira Dão
+18;06;08;Freixiosa
+18;06;09;Lobelhe do Mato
+18;06;10;Mangualde
+18;06;11;Mesquitela
+18;06;12;Moimenta Maceira Dão
+18;06;13;Póvoa de Cervães
+18;06;14;Quintela de Azurara
+18;06;15;Santiago de Cassurrães
+18;06;16;São João da Fresta
+18;06;17;Travanca de Tavares
+18;06;18;Várzea de Tavares
+18;07;01;Aldeia de Nacomba
+18;07;02;Alvite
+18;07;03;Arcozelos
+18;07;04;Ariz
+18;07;05;Baldos
+18;07;06;Cabaços
+18;07;07;Caria
+18;07;08;Castelo
+18;07;09;Leomil
+18;07;10;Moimenta da Beira
+18;07;11;Nagosa
+18;07;12;Paradinha
+18;07;13;Passô
+18;07;14;Pêra Velha
+18;07;15;Peva
+18;07;16;Rua
+18;07;17;Sarzedo
+18;07;18;Segões
+18;07;19;Sever
+18;07;20;Vilar
+18;08;01;Almaça
+18;08;02;Cercosa
+18;08;03;Cortegaça
+18;08;04;Espinho
+18;08;05;Marmeleira
+18;08;06;Mortágua
+18;08;07;Pala
+18;08;08;Sobral
+18;08;09;Trezói
+18;08;10;Vale de Remígio
+18;09;01;Canas de Senhorim
+18;09;02;Carvalhal Redondo
+18;09;03;Nelas
+18;09;04;Santar
+18;09;05;Senhorim
+18;09;06;Vilar Seco
+18;09;07;Aguieira
+18;09;08;Lapa do Lobo
+18;09;09;Moreira
+18;10;01;Arca
+18;10;02;Arcozelo das Maias
+18;10;03;Destriz
+18;10;04;Oliveira de Frades
+18;10;05;Pinheiro
+18;10;06;Reigoso
+18;10;07;Ribeiradio
+18;10;08;São João da Serra
+18;10;09;São Vicente de Lafões
+18;10;10;Sejães
+18;10;11;Souto de Lafões
+18;10;12;Varzielas
+18;11;01;Antas
+18;11;02;Castelo de Penalva
+18;11;03;Esmolfe
+18;11;04;Germil
+18;11;05;Insua
+18;11;06;Lusinde
+18;11;07;Mareco
+18;11;08;Matela
+18;11;09;Pindo
+18;11;10;Real
+18;11;11;Sezures
+18;11;12;Trancozelos
+18;11;13;Vila Cova do Covelo
+18;12;01;Antas
+18;12;02;Beselga
+18;12;03;Castainço
+18;12;04;Granja
+18;12;05;Ourozinho
+18;12;06;Penedono
+18;12;07;Penela da Beira
+18;12;08;Póvoa de Penela
+18;12;09;Souto
+18;13;01;Anreade
+18;13;02;Barrô
+18;13;03;Cárquere
+18;13;04;Feirão
+18;13;05;Felgueiras
+18;13;06;Freigil
+18;13;07;Miomães
+18;13;08;Ovadas
+18;13;09;Panchorra
+18;13;10;Paus
+18;13;11;Resende
+18;13;12;São Cipriano
+18;13;13;São João de Fontoura
+18;13;14;São Martinho de Mouros
+18;13;15;São Romão de Aregos
+18;14;01;Couto do Mosteiro
+18;14;02;Óvoa
+18;14;03;Pinheiro de Ázere
+18;14;04;Santa Comba Dão
+18;14;05;São Joaninho
+18;14;06;São João de Areias
+18;14;07;Treixedo
+18;14;08;Vimieiro
+18;14;09;Nagosela
+18;15;01;Castanheiro do Sul
+18;15;02;Ervedosa do Douro
+18;15;03;Espinhosa
+18;15;04;Nagoselo do Douro
+18;15;05;Paredes da Beira
+18;15;06;Pereiros
+18;15;07;Riodades
+18;15;08;São João da Pesqueira
+18;15;09;Soutelo do Douro
+18;15;10;Trevões
+18;15;11;Vale de Figueira
+18;15;12;Valongo dos Azeites
+18;15;13;Várzea de Trevões
+18;15;14;Vilarouco
+18;16;01;Baiões
+18;16;02;Bordonhos
+18;16;03;Candal
+18;16;04;Carvalhais
+18;16;05;Covas do Rio
+18;16;06;Figueiredo de Alva
+18;16;07;Manhouce
+18;16;08;Pindelo dos Milagres
+18;16;09;Pinho
+18;16;10;Santa Cruz da Trapa
+18;16;11;São Cristóvão de Lafões
+18;16;12;São Félix
+18;16;13;São Martinho das Moitas
+18;16;14;São Pedro do Sul
+18;16;15;Serrazes
+18;16;16;Sul
+18;16;17;Valadares
+18;16;18;Várzea
+18;16;19;Vila Maior
+18;17;01;Águas Boas
+18;17;02;Avelal
+18;17;03;Decermilo
+18;17;04;Ferreira de Aves
+18;17;05;Forles
+18;17;06;Mioma
+18;17;07;Rio de Moinhos
+18;17;08;Romãs
+18;17;09;São Miguel de Vila Boa
+18;17;10;Sátão
+18;17;11;Silvã de Cima
+18;17;12;Vila Longa
+18;18;01;Arnas
+18;18;02;Carregal
+18;18;03;Chosendo
+18;18;04;Cunha
+18;18;05;Escurquela
+18;18;06;Faia
+18;18;07;Ferreirim
+18;18;08;Fonte Arcada
+18;18;09;Freixinho
+18;18;10;Granjal
+18;18;11;Lamosa
+18;18;12;Macieira
+18;18;13;Penso
+18;18;14;Quintela
+18;18;15;Sarzeda
+18;18;16;Sernancelhe
+18;18;17;Vila da Ponte
+18;19;01;Adorigo
+18;19;02;Arcos
+18;19;03;Barcos
+18;19;04;Chavães
+18;19;05;Desejosa
+18;19;06;Granja do Tedo
+18;19;07;Granjinha
+18;19;08;Longa
+18;19;09;Paradela
+18;19;10;Pereiro
+18;19;11;Pinheiros
+18;19;12;Santa Leocádia
+01;03;00;Várias
+01;05;00;Várias
+01;07;00;Várias
+01;12;00;Várias
+02;10;00;Várias
+02;11;00;Várias
+02;13;00;Várias
+03;02;00;Várias
+03;03;00;Várias
+03;06;00;Várias
+03;08;00;Várias
+03;12;00;Várias
+03;14;00;Várias
+04;02;00;Várias
+06;03;00;Várias
+06;05;00;Várias
+06;14;00;Várias
+07;06;00;Várias
+08;01;00;Várias
+08;05;00;Várias
+08;07;00;Várias
+08;08;00;Várias
+08;10;00;Várias
+08;14;00;Várias
+09;03;00;Várias
+09;06;00;Várias
+10;09;00;Várias
+10;14;00;Várias
+11;01;00;Várias
+11;05;00;Várias
+11;06;00;Várias
+11;09;00;Várias
+11;10;00;Várias
+11;11;00;Várias
+11;13;00;Várias
+11;15;00;Várias
+12;04;00;Várias
+12;05;00;Várias
+12;07;00;Várias
+12;12;00;Várias
+13;01;00;Várias
+13;05;00;Várias
+13;06;00;Várias
+13;07;00;Várias
+13;08;00;Várias
+13;10;00;Várias
+13;13;00;Várias
+13;17;00;Várias
+14;10;00;Várias
+14;16;00;Várias
+14;19;00;Várias
+14;21;00;Várias
+15;01;00;Várias
+15;03;00;Várias
+15;04;00;Várias
+15;07;00;Várias
+15;08;00;Várias
+15;10;00;Várias
+15;11;00;Várias
+15;12;00;Várias
+16;01;00;Várias
+16;07;00;Várias
+16;09;00;Várias
+17;04;00;Várias
+17;14;00;Várias
+18;21;00;Várias
+18;23;00;Várias
+31;03;00;Várias
+42;06;00;Várias
+43;01;00;Várias
+47;01;00;Várias
+14;17;01;Alcaravela
+14;17;02;Santiago de Montalegre
+14;17;03;Sardoal
+14;17;04;Valhascos
+14;18;00;Indefinida
+14;18;01;Alviobeira
+14;18;02;Asseiceira
+14;18;03;Beselga
+14;18;04;Carregueiros
+14;18;05;Casais
+14;18;06;Junceira
+14;18;07;Madalena
+14;18;08;Olalhas
+14;18;09;Paialvo
+14;18;10;Pedreira
+14;18;11;Santa Maria dos Olivais
+14;18;12;São João Batista
+14;18;13;São Pedro de Tomar
+14;18;14;Sabacheira
+14;18;15;Serra
+14;18;16;Além da Ribeira
+14;19;01;Alcorochel
+14;19;02;Assentiz
+14;19;03;Brogueira
+14;19;04;Chancelaria
+14;19;05;Lapas
+14;19;06;Olaia
+14;19;07;Paço
+14;19;08;Parceiros de Igreja
+14;19;09;Pedrógão
+14;19;10;Riachos
+14;19;11;Ribeira Branca
+14;19;12;Salvador
+14;19;13;Santa Maria
+14;19;14;Santiago
+14;19;15;São Pedro
+14;19;16;Zibreira
+14;19;17;Meia Via
+14;20;01;Atalaia
+14;20;02;Praia do Ribatejo
+14;20;03;Tancos
+14;20;04;Vila Nova da Barquinha
+14;20;05;Moita do Norte
+14;21;01;Alburitel
+14;21;02;Atouguia
+14;21;03;Casal dos Bernardos
+14;21;04;Caxarias
+14;21;05;Espite
+14;21;06;Fátima
+14;21;07;Formigais
+14;21;08;Freixianda
+14;21;09;Gondemaria
+14;21;10;Olival
+14;21;11;Nossa Senhora Misericórdias
+14;21;12;Rio de Couros
+14;21;13;Seiça
+14;21;14;Urqueira
+14;21;15;Nossa Senhora da Piedade
+14;21;16;Matas
+14;21;17;Cercal
+14;21;18;Ribeira do Fárrio
+15;01;01;Santa Maria do Castelo
+15;01;02;Santa Susana
+15;01;03;Santiago
+15;01;04;Torrão
+15;01;05;São Martinho
+15;01;06;Comporta
+15;02;01;Alcochete
+15;02;02;Samouco
+15;02;03;São Francisco
+15;03;01;Almada
+15;03;02;Caparica
+15;03;03;Costa de Caparica
+15;03;04;Cova da Piedade
+15;03;05;Trafaria
+15;03;06;Cacilhas
+15;03;07;Pragal
+15;03;08;Sobreda
+15;03;09;Charneca da Caparica
+15;03;10;Laranjeiro
+15;03;11;Feijó
+15;04;01;Barreiro
+15;04;02;Lavradio
+15;04;03;Palhais
+15;04;04;Santo André
+15;04;05;Verderena
+15;04;06;Alto do Seixalinho
+15;04;07;Santo António da Charneca
+15;04;08;Coina
+15;05;01;Azinheira dos Barros
+15;05;02;Grândola
+15;05;03;Melides
+15;05;04;Santa Margarida da Serra
+15;05;05;Carvalhal
+15;06;01;Alhos Vedros
+15;06;02;Baixa da Banheira
+15;06;03;Moita
+15;06;04;Gaio-Rosário
+15;06;05;Sarilhos Pequenos
+15;06;06;Vale da Amoreira
+15;07;01;Canha
+15;07;02;Montijo
+15;07;03;Santo Isidro de Pegões
+15;07;04;Sarilhos Grandes
+15;07;05;Alto Estanqueiro-Jardia
+15;07;06;Pegões
+15;07;07;Atalaia
+15;07;08;Afonsoeiro
+15;08;01;Marateca
+15;08;02;Palmela
+15;08;03;Pinhal Novo
+15;08;04;Quinta do Anjo
+15;08;05;Poceirão
+15;09;01;Abela
+15;09;02;Alvalade
+15;09;03;Cercal
+15;09;04;Ermidas-Sado
+15;09;05;Santa Cruz
+15;09;06;Santiago do Cacém
+15;09;07;Santo André
+15;09;08;São Bartolomeu da Serra
+15;09;09;São Domingos
+15;09;10;São Francisco da Serra
+15;09;11;Vale de Água
+15;10;01;Aldeia de Paio Pires
+15;10;02;Amora
+15;10;03;Arrentela
+15;10;04;Seixal
+15;10;05;Corroios
+15;10;06;Fernão Ferro
+15;11;01;Castelo (Sesimbra)
+15;11;02;Santiago (Sesimbra)
+15;11;03;Quinta do Conde
+15;12;01;Nossa Senhora da Anunciada
+15;12;02;Santa Maria da Graça
+15;12;03;São Julião
+15;12;04;São Lourenço
+15;12;05;São Sebastião
+15;12;06;São Simão
+15;12;07;Gâmbia-Pontes-Alto Guerra
+15;12;08;Sado
+15;13;01;Sines
+15;13;02;Porto Covo
+16;01;01;Aboim das Choças
+16;01;02;Aguiã
+16;01;03;Alvora
+16;01;04;Ázere
+16;01;05;Cabana Maior
+16;01;06;Cabreiro
+16;01;07;Carralcova
+16;01;08;Cendufe
+16;01;09;Couto
+16;01;10;Eiras
+16;01;11;Ermelo
+16;01;12;Extremo
+16;01;13;Gavieira
+16;01;14;Giela
+16;01;15;Gondoriz
+16;01;16;Grade
+16;01;17;Guilhadeses
+16;01;18;Loureda
+16;01;19;Madalena (Jolda)
+16;01;20;Mei
+16;01;21;Miranda
+16;01;22;Monte Redondo
+16;01;23;Oliveira
+16;01;24;Paçô
+16;01;25;Padroso
+16;01;26;Parada
+16;01;27;Portela
+16;01;28;Prozelo
+16;01;29;Rio Cabrão
+16;01;30;Rio Frio
+16;01;31;Rio de Moinhos
+16;01;32;Sá
+16;01;33;Sabadim
+16;01;34;Salvador
+16;01;35;Padreiro (Salvador)
+16;01;36;Padreiro (Santa Cristina)
+16;01;37;Távora (Santa Maria)
+16;01;38;Santar
+16;01;39;São Cosme e São Damião
+16;01;40;São Jorge
+16;01;41;São Paio Arcos Valdevez
+16;01;42;São Paio Jolda
+16;01;43;São Vicente Távora
+16;01;44;Senharei
+16;01;45;Sistelo
+16;01;46;Soajo
+16;01;47;Souto
+16;01;48;Tabaçô
+16;01;49;Vale
+16;01;50;Vila Fonche
+16;01;51;Vilela
+16;02;01;Âncora
+16;02;02;Arga de Baixo
+16;02;03;Arga de Cima
+16;02;04;Arga de São João
+16;02;05;Argela
+16;02;06;Azevedo
+16;02;07;Caminha
+16;02;08;Cristelo
+16;02;09;Dem
+16;02;10;Gondar
+16;02;11;Lanhelas
+16;02;12;Moledo
+16;02;13;Orbacém
+16;02;14;Riba de Âncora
+16;02;15;Seixas
+16;02;16;Venade
+16;02;17;Vila Praia de Âncora
+16;02;18;Vilar de Mouros
+16;02;19;Vilarelho
+16;02;20;Vile
+16;03;01;Alvaredo
+16;03;02;Castro Laboreiro
+16;03;03;Chaviães
+16;03;04;Cousso
+16;03;05;Cristoval
+16;03;06;Cubalhão
+16;03;07;Fiães
+16;03;08;Gave
+16;03;09;Lamas de Mouro
+16;03;10;Paços
+16;03;11;Paderne
+16;03;12;Parada do Monte
+16;03;13;Penso
+16;03;14;Prado
+16;03;15;Remoães
+16;03;16;Roussas
+16;03;17;São Paio
+16;03;18;Vila
+16;04;01;Abedim
+16;04;02;Anhões
+16;04;03;Badim
+16;04;04;Barbeita
+16;04;05;Barroças e Taias
+16;04;06;Bela
+16;04;07;Cambeses
+16;04;08;Ceivães
+16;04;09;Lapela
+16;04;10;Lara
+16;04;11;Longos Vales
+16;04;12;Lordelo
+16;04;13;Luzio
+16;04;14;Mazedo
+16;04;15;Merufe
+16;04;16;Messegães
+16;04;17;Monção
+16;04;18;Moreira
+16;04;19;Parada
+16;04;20;Pias
+16;04;21;Pinheiros
+16;04;22;Podame
+16;04;23;Portela
+16;04;24;Riba de Mouro
+16;04;25;Sá
+16;04;26;Sago
+16;04;27;Segude
+16;04;28;Tangil
+16;04;29;Troporiz
+16;04;30;Troviscoso
+16;04;31;Trute
+16;04;32;Valadares
+16;04;33;Cortes
+16;05;01;Agualonga
+16;05;02;Bico
+16;05;03;Castanheira
+16;05;04;Cossourado
+16;05;05;Coura
+16;05;06;Cristelo
+16;05;07;Cunha
+16;05;08;Ferreira
+16;05;09;Formariz
+16;05;10;Infesta
+16;05;11;Insalde
+16;05;12;Linhares
+16;05;13;Mozelos
+16;05;14;Padornelo
+16;05;15;Parada
+16;05;16;Paredes de Coura
+16;05;17;Porreiras
+16;05;18;Resende
+16;05;19;Romarigães
+16;05;20;Rubiães
+16;05;21;Vascões
+16;06;01;Azias (Santa Maria)
+16;06;02;Boivães
+16;06;03;Bravães
+16;06;04;Britelo (São Martinho)
+16;06;05;Crasto (São Martinho)
+16;06;06;Cuide de Vila Verde
+16;06;07;Entre Ambos-os-Rios
+16;06;08;Ermida
+16;06;09;Germil
+16;06;10;Grovelas São João Evangelista
+16;06;11;Lavradas
+16;06;12;Lindoso
+16;06;13;Nogueira
+16;06;14;Oleiros
+16;06;15;Paço Vedro de Magalhães
+16;06;16;Ponte da Barca
+16;06;17;Ruivos
+16;06;18;Touvedo (Salvador)
+16;06;19;Sampriz
+16;06;20;Vila Chã (Santiago)
+16;06;21;Vila Chã (São João Batista)
+16;06;22;Touvedo (São Lourenço)
+16;06;23;Vade (São Pedro)
+16;06;24;Vade (São Tomé)
+16;06;25;Vila Nova de Muia
+16;07;01;Anais
+16;07;02;Arca
+16;07;03;Arcos
+16;07;04;Arcozelo
+16;07;05;Ardegão
+16;07;06;Bárrio
+16;07;07;Beiral do Lima
+16;07;08;Bertiandos
+16;07;09;Boalhosa
+16;07;10;Brandara
+16;07;11;Cabaços
+16;07;12;Cabração
+16;07;13;Calheiros
+16;07;14;Calvelo
+16;07;15;Cepões
+16;07;16;Correlhã
+16;07;17;Estorãos
+16;07;18;Facha
+16;07;19;Feitosa
+16;07;20;Fojo Lobal
+16;07;21;Fontão
+16;07;22;Fornelos
+16;07;23;Freixo
+16;07;24;Friastelas
+16;07;25;Gaifar
+16;07;26;Gandra
+16;07;27;Gemieira
+16;07;28;Gondufe
+16;07;29;Labruja
+16;07;30;Labrujó
+16;07;31;Mato
+16;07;32;Moreira do Lima
+16;07;33;Navió
+16;07;34;Poiares
+16;07;35;Ponte de Lima
+16;07;36;Queijada
+16;07;37;Refóios do Lima
+16;07;38;Rendufe
+16;07;39;Ribeira
+16;07;40;Sá
+16;07;41;Sandiães
+16;07;42;Santa Comba
+16;07;43;Santa Cruz de Lima
+16;07;44;Santa Maria Rebordões
+16;07;45;Seara
+16;07;46;Serdedelo
+16;07;47;Souto Rebordões
+16;07;48;Vilar das Almas
+16;07;49;Vilar do Monte
+16;07;50;Vitorino das Donas
+16;07;51;Vitorino dos Piães
+16;08;01;Arão (São Salvador)
+16;08;02;Boivão (São Tiago)
+16;08;03;Cerdal
+16;08;04;Cristelo Covo
+16;08;05;Fontoura
+16;08;06;Friestas
+16;08;07;Gandra
+16;08;08;Ganfei (São Salvador)
+16;08;09;Gondomil
+16;08;10;Sanfins
+16;08;11;São Julião
+16;08;12;São Pedro da Torre
+16;08;13;Silva
+16;08;14;Taião
+16;08;15;Valença
+16;08;16;Verdoejo
+16;09;01;Afife
+16;09;02;Alvarães
+16;09;03;Amonde
+16;09;04;Vila Nova de Anha
+16;09;05;Areosa
+16;09;06;Barroselas
+16;09;07;Cardielos
+16;09;08;Carreço
+16;09;09;Carvoeiro
+16;09;10;Castelo do Neiva
+16;09;11;Darque
+16;09;12;Deão
+16;09;13;Deocriste
+16;09;14;Freixieiro de Soutelo
+16;09;15;Lanheses
+16;09;16;Mazarefes
+16;09;17;Meadela
+16;09;18;Meixedo
+16;09;19;Monserrate
+16;09;20;Montaria
+16;09;21;Moreira de Geraz do Lima
+16;09;22;Mujães
+16;09;23;Neiva
+16;09;24;Nogueira
+16;09;25;Outeiro
+16;09;26;Perre
+16;09;27;Portela Susã
+16;09;28;Santa Marta de Portuzelo
+16;09;29;Geraz Lima (Santa Leocádia)
+16;09;30;Geraz Lima (Santa Maria)
+16;09;31;Santa Maria Maior
+16;09;32;Serreleis
+16;09;33;Subportela
+16;09;34;Torre
+16;09;35;Vila Franca
+16;09;36;Vila Fria
+16;09;37;Vila Mou
+16;09;38;Vila de Punhe
+16;09;39;Vilar de Murteda
+16;09;40;Chafé
+16;10;01;Campos
+16;10;02;Candemil
+16;10;03;Cornes
+16;10;04;Covas
+16;10;05;Gondar
+16;10;06;Gondarém
+16;10;07;Loivo
+16;10;08;Lovelhe
+16;10;09;Mentrestido
+16;10;10;Nogueira
+16;10;11;Reboreda
+16;10;12;Sapardos
+16;10;13;Sopo
+16;10;14;Vila Meã
+16;10;15;Vila Nova de Cerveira
+17;01;01;Alijó
+17;01;02;Amieiro
+17;01;03;Carlão
+17;01;04;Casal de Loivos
+17;01;05;Castedo
+17;01;06;Cotas
+17;01;07;Favaios
+17;01;08;Pegarinhos
+17;01;09;Pinhão
+17;01;10;Pópulo
+17;01;11;Ribalonga
+17;01;12;Sanfins do Douro
+17;01;13;Santa Eugénia
+17;01;14;São Mamede de Ribatua
+17;01;15;Vale de Mendiz
+17;01;16;Vila Chã
+17;01;17;Vila Verde
+17;01;18;Vilar de Maçada
+17;01;19;Vilarinho de Cotas
+17;02;01;Alturas do Barroso
+17;02;02;Ardãos
+17;02;03;Beça
+17;02;04;Bobadela
+17;02;05;Boticas
+17;02;06;Cerdedo
+17;02;07;Codessoso
+17;02;08;Covas do Barroso
+17;02;09;Curros
+17;02;10;Dornelas
+17;02;11;Fiães do Tamega
+17;02;12;Granja
+17;02;13;Pinho
+17;02;14;São Salvador de Viveiro
+17;02;15;Sapiãos
+17;02;16;Vilar
+17;03;00;Indefinida
+17;03;01;Águas Frias
+17;03;02;Anelhe
+17;03;03;Arcossó
+17;03;04;Bobadela
+17;03;05;Bustelo
+17;03;06;Calvão
+17;03;07;Cela
+17;03;09;Cimo de Vila de Castanheira
+17;03;10;Curalha
+17;03;11;Eiras
+17;03;12;Ervededo
+17;03;13;Faiões
+17;03;14;Lama de Arcos
+17;03;15;Loivos
+17;03;16;Mairos
+17;03;17;Moreiras
+17;03;18;Nogueira da Montanha
+17;03;19;Oucidres
+17;03;20;Oura
+17;03;21;Outeiro Seco
+17;03;22;Paradela
+17;03;23;Póvoa de Agrações
+17;03;24;Redondelo
+17;03;25;Roriz
+17;03;26;Samaiões
+17;03;27;Sanfins
+17;03;28;Sanjurje
+17;03;29;Santa Leocádia
+17;03;30;Santo António de Monforte
+17;03;31;Santo Estevão
+17;03;32;São Julião de Montenegro
+17;03;33;São Pedro de Agostem
+17;03;34;São Vicente
+17;03;35;Seara Velha
+17;03;36;Selhariz
+17;03;37;Soutelinho da Raia
+17;03;38;Soutelo
+17;03;39;Travancas
+17;03;40;Tronco
+17;03;41;Vale de Anta
+17;03;42;Vidago
+17;03;43;Vila Verde de Raia
+17;03;44;Vilar de Nantes
+17;03;45;Vilarelho da Raia
+17;03;46;Vilarinho das Paranheiras
+17;03;47;Vilas Boas
+17;03;48;Vilela Seca
+17;03;49;Vilela do Tâmega
+17;03;50;Santa Maria Maior
+17;04;01;Barqueiros
+17;04;02;Cidadelhe
+17;04;03;Oliveira
+17;04;04;Santa Cristina
+17;04;05;São Nicolau
+17;04;06;Vila Jusã
+17;04;07;Vila Marim
+17;05;01;Atei
+17;05;02;Bilhó
+17;05;03;Campanhó
+17;05;04;Ermelo
+17;05;05;Mondim de Basto
+17;05;06;Paradança
+17;05;07;Pardelhas
+17;05;08;Vilar de Ferreiros
+17;06;01;Cabril
+17;06;02;Cambeses do Rio
+17;06;03;Cervos
+17;06;04;Chã
+17;06;05;Contim
+17;06;06;Covelães
+17;03;51;Madalena
+17;03;52;Santa Cruz/Trindade
+17;06;07;Covelo do Gerez
+17;06;08;Donões
+17;06;09;Ferral
+17;06;10;Fervidelas

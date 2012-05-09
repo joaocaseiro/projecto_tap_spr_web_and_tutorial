@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="1.0">
+    <persistence-unit name="tapestryUnit" transaction-type="RESOURCE_LOCAL">
+        <provider>org.hibernate.ejb.HibernatePersistence</provider>
+        <class>com.grupoatwork.celebrity.entities.Celebrity</class>
+        <class>com.grupoatwork.celebrity.entities.District</class>
+        <class>com.grupoatwork.celebrity.entities.County</class>
+        <class>com.grupoatwork.celebrity.entities.Parish</class>
+        <class>com.grupoatwork.celebrity.entities.Address</class>
+        <class>com.grupoatwork.celebrity.entities.Movie</class>
+        <class>com.grupoatwork.celebrity.entities.Role</class>
+        <exclude-unlisted-classes />
+        
+        <properties>
+        	<!-- <property name="hibernate.hbm2ddl.auto" value="create-drop"/> shit is cleaned up -->
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
+            <property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver" />
+            <property name="hibernate.connection.username" value="simplex" />
+            <property name="hibernate.connection.password" value="simplex" />
+            <property name="hibernate.connection.url" value="jdbc:mysql://127.0.0.1:3306/simplercelebrity" />
+            <property name="hibernate.show_sql" value="true" />
+        </properties>
+    </persistence-unit>
+</persistence>
