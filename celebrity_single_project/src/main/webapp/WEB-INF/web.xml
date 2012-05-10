@@ -29,10 +29,20 @@
 		<param-value>/WEB-INF/applicationContext.xml</param-value>
 	</context-param>
 
+	<filter>
+		<filter-name>JpaFilter</filter-name>
+		<filter-class>org.springframework.orm.jpa.support.OpenEntityManagerInViewFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>JpaFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+	
 	<servlet>
-		<description>JAX-RS Tools Generated - Do not modify</description>
-		<servlet-name>JAX-RS Servlet</servlet-name>
-		<servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer</servlet-class>
+	 	<servlet-name>jersey-serlvet</servlet-name>
+        <servlet-class>
+            com.sun.jersey.spi.spring.container.servlet.SpringServlet
+        </servlet-class>
 		<init-param>
 			<param-name>com.sun.jersey.config.property.resourceConfigClass</param-name>
 			<param-value>com.sun.jersey.api.core.PackagesResourceConfig</param-value>
@@ -42,20 +52,12 @@
 			<param-value>com.grupoatwork.celebrity.webservices</param-value>
 		</init-param>
 		<load-on-startup>1</load-on-startup>
-	</servlet>
+    </servlet>
 	<servlet-mapping>
-		<servlet-name>JAX-RS Servlet</servlet-name>
+		<servlet-name>jersey-serlvet</servlet-name>
 		<url-pattern>/jaxrs/*</url-pattern>
 	</servlet-mapping>
 
-	<filter>
-		<filter-name>JpaFilter</filter-name>
-		<filter-class>org.springframework.orm.jpa.support.OpenEntityManagerInViewFilter</filter-class>
-	</filter>
-	<filter-mapping>
-		<filter-name>JpaFilter</filter-name>
-		<url-pattern>/*</url-pattern>
-	</filter-mapping>
 	<filter>
 		<filter-name>app</filter-name>
 		<!-- Special filter that adds in a T5 IoC module derived from the Spring 

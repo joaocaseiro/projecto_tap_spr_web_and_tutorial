@@ -32,6 +32,14 @@ public class CelebrityWebservices {
 	public String getClichedMessage() {
 		return "Hello Android";
 	}
+	
+	public void setCelebrityDaoProp(CelebrityDao celebrityDao) {
+		this.celebrityDao = celebrityDao;
+	}
+	
+	public CelebrityDao getCelebrityDaoProp() {
+		return this.celebrityDao;
+	}
 //	
 //	@GET
 //	@Path("/xml")

@@ -30,4 +30,8 @@
     <bean id="addressDao" class="com.grupoatwork.celebrity.dao.AddressDaoImpl" />
     <bean id="movieDao" class="com.grupoatwork.celebrity.dao.MovieDaoImpl" />
     <bean id="roleDao" class="com.grupoatwork.celebrity.dao.RoleDaoImpl" />
+    
+    <bean id="celebrityWebservices" class="com.grupoatwork.celebrity.webservices.CelebrityWebservices">
+    	<property name="celebrityDaoProp" ref="celebrityDao"/>
+    </bean>
 </beans>
