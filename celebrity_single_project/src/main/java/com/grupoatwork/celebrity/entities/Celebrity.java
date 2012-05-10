@@ -3,9 +3,14 @@ package com.grupoatwork.celebrity.entities;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlType;
 
 @Entity
 @Table(name = "Celebrity")
+@XmlRootElement(name = "celebrity")
+@XmlType(name = "", propOrder = { "firstName", "lastName", "phoneNumber" })
 public class Celebrity extends BaseDomain {
 	private static final long serialVersionUID = 7330834323227961513L;
 

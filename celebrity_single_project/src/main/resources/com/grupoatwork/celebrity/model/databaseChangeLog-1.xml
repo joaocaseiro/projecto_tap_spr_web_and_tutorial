@@ -1,206 +1,357 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+<databaseChangeLog
+	xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
          http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-2.0.xsd">
 
 	<!-- //////////////////////////////////////////////// Celebrity /////////////////////////////////////////////////////// -->
-	<changeSet id="1" author="jcaseiro">
+	<changeSet
+		id="1"
+		author="jcaseiro">
 		<comment>Table holding celebrity information</comment>
 
 		<createTable tableName="Celebrity">
 
-			<column name="id" type="java.sql.Types.BIGINT">
+			<column
+				name="id"
+				type="java.sql.Types.BIGINT">
 				<constraints primaryKey="true" />
 			</column>
-			
-			<column name="entityVersion" type="java.sql.Types.BIGINT" />
-			
-			<column name="firstName" type="java.sql.Types.VARCHAR(15)"/>
 
-			<column name="lastName" type="java.sql.Types.VARCHAR(15)" />
-			
-			<column name="phonenr" type="java.sql.Types.VARCHAR(15)" />
+			<column
+				name="entityVersion"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="firstName"
+				type="java.sql.Types.VARCHAR(15)" />
+
+			<column
+				name="lastName"
+				type="java.sql.Types.VARCHAR(15)" />
+
+			<column
+				name="phonenr"
+				type="java.sql.Types.VARCHAR(15)" />
 		</createTable>
 	</changeSet>
-	
+
 	<!-- //////////////////////////////////////////////// District /////////////////////////////////////////////////////// -->
-	<changeSet id="2" author="jcaseiro">
+	<changeSet
+		id="2"
+		author="jcaseiro">
 		<comment>Table holding district information</comment>
 
 		<createTable tableName="District">
 
-			<column name="id" type="java.sql.Types.BIGINT">
+			<column
+				name="id"
+				type="java.sql.Types.BIGINT">
 				<constraints primaryKey="true" />
 			</column>
-			
-			<column name="entityVersion" type="java.sql.Types.BIGINT" />
-			
-			<column name="districtCode" type="java.sql.Types.VARCHAR(60)"/>
 
-			<column name="districtName" type="java.sql.Types.VARCHAR(60)" />
+			<column
+				name="entityVersion"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="districtCode"
+				type="java.sql.Types.VARCHAR(60)" />
+
+			<column
+				name="districtName"
+				type="java.sql.Types.VARCHAR(60)" />
 		</createTable>
 	</changeSet>
-	
-	<changeSet id="3" author="jcaseiro">
+
+	<changeSet
+		id="3"
+		author="jcaseiro">
 		<comment>create unique constraint on table District</comment>
-	
-		<addUniqueConstraint tableName="District" columnNames="districtCode"/>
+
+		<addUniqueConstraint
+			tableName="District"
+			columnNames="districtCode" />
 	</changeSet>
-	
+
 	<!-- //////////////////////////////////////////////// County /////////////////////////////////////////////////////// -->
-	<changeSet id="4" author="jcaseiro">
+	<changeSet
+		id="4"
+		author="jcaseiro">
 		<comment>Table holding district information</comment>
 
 		<createTable tableName="County">
 
-			<column name="id" type="java.sql.Types.BIGINT">
+			<column
+				name="id"
+				type="java.sql.Types.BIGINT">
 				<constraints primaryKey="true" />
 			</column>
-			
-			<column name="district_id" type="java.sql.Types.BIGINT"/>
-			
-			<column name="countyCode" type="java.sql.Types.VARCHAR(60)"/>
 
-			<column name="countyName" type="java.sql.Types.VARCHAR(60)" />
+			<column
+				name="district_id"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="countyCode"
+				type="java.sql.Types.VARCHAR(60)" />
+
+			<column
+				name="countyName"
+				type="java.sql.Types.VARCHAR(60)" />
 		</createTable>
 	</changeSet>
-	
-	<changeSet id="5" author="jcaseiro">
+
+	<changeSet
+		id="5"
+		author="jcaseiro">
 		<comment>create unique constraint on table District</comment>
-	
-		<addUniqueConstraint tableName="County" columnNames="countyCode, district_id"/>
+
+		<addUniqueConstraint
+			tableName="County"
+			columnNames="countyCode, district_id" />
 	</changeSet>
-	
-	<changeSet id="6" author="jcaseiro">
+
+	<changeSet
+		id="6"
+		author="jcaseiro">
 		<comment>create unique constraint on table District</comment>
-	
-		<addForeignKeyConstraint constraintName="FK_County_District" referencedTableName="District" baseColumnNames="district_id" baseTableName="County" referencedColumnNames="id"/>
+
+		<addForeignKeyConstraint
+			constraintName="FK_County_District"
+			referencedTableName="District"
+			baseColumnNames="district_id"
+			baseTableName="County"
+			referencedColumnNames="id" />
 	</changeSet>
-	
+
 	<!-- //////////////////////////////////////////////// Parish /////////////////////////////////////////////////////// -->
-	<changeSet id="7" author="jcaseiro">
+	<changeSet
+		id="7"
+		author="jcaseiro">
 		<comment>Table holding district information</comment>
 
 		<createTable tableName="Parish">
 
-			<column name="id" type="java.sql.Types.BIGINT">
+			<column
+				name="id"
+				type="java.sql.Types.BIGINT">
 				<constraints primaryKey="true" />
 			</column>
-			
-			<column name="county_id" type="java.sql.Types.BIGINT"/>
-			
-			<column name="parishCode" type="java.sql.Types.VARCHAR(60)"/>
 
-			<column name="parishName" type="java.sql.Types.VARCHAR(60)" />
+			<column
+				name="county_id"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="parishCode"
+				type="java.sql.Types.VARCHAR(60)" />
+
+			<column
+				name="parishName"
+				type="java.sql.Types.VARCHAR(60)" />
 		</createTable>
 	</changeSet>
-	
-	<changeSet id="8" author="jcaseiro">
+
+	<changeSet
+		id="8"
+		author="jcaseiro">
 		<comment>create unique constraint on table Parish</comment>
-	
-		<addUniqueConstraint tableName="Parish" columnNames="parishCode, county_id"/>
+
+		<addUniqueConstraint
+			tableName="Parish"
+			columnNames="parishCode, county_id" />
 	</changeSet>
-	
-	<changeSet id="9" author="jcaseiro">
+
+	<changeSet
+		id="9"
+		author="jcaseiro">
 		<comment>create fk constraint on table Parish</comment>
-	
-		<addForeignKeyConstraint constraintName="FK_Parish_County" referencedTableName="County" baseColumnNames="county_id" baseTableName="Parish" referencedColumnNames="id"/>
+
+		<addForeignKeyConstraint
+			constraintName="FK_Parish_County"
+			referencedTableName="County"
+			baseColumnNames="county_id"
+			baseTableName="Parish"
+			referencedColumnNames="id" />
 	</changeSet>
-	
+
 	<!-- //////////////////////////////////////////////// Address /////////////////////////////////////////////////////// -->
-	<changeSet id="10" author="jcaseiro">
+	<changeSet
+		id="10"
+		author="jcaseiro">
 		<comment>Table holding district information</comment>
 
 		<createTable tableName="Address">
 
-			<column name="id" type="java.sql.Types.BIGINT">
+			<column
+				name="id"
+				type="java.sql.Types.BIGINT">
 				<constraints primaryKey="true" />
 			</column>
-			
-			<column name="parish_id" type="java.sql.Types.BIGINT"/>
-			
-			<column name="streetNumber" type="java.sql.Types.VARCHAR(60)"/>
 
-			<column name="streetName" type="java.sql.Types.VARCHAR(60)" />
+			<column
+				name="parish_id"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="streetNumber"
+				type="java.sql.Types.VARCHAR(60)" />
+
+			<column
+				name="streetName"
+				type="java.sql.Types.VARCHAR(60)" />
 		</createTable>
 	</changeSet>
-	
-	<changeSet id="11" author="jcaseiro">
+
+	<changeSet
+		id="11"
+		author="jcaseiro">
 		<comment>create unique constraint on table Address</comment>
-	
-		<addUniqueConstraint tableName="Address" columnNames="parish_id, streetName, streetNumber"/>
+
+		<addUniqueConstraint
+			tableName="Address"
+			columnNames="parish_id, streetName, streetNumber" />
 	</changeSet>
-	
-	<changeSet id="12" author="jcaseiro">
+
+	<changeSet
+		id="12"
+		author="jcaseiro">
 		<comment>create fk constraint on table Address</comment>
-	
-		<addForeignKeyConstraint constraintName="FK_Address_Parish" referencedTableName="Parish" baseColumnNames="parish_id" baseTableName="Address" referencedColumnNames="id"/>
+
+		<addForeignKeyConstraint
+			constraintName="FK_Address_Parish"
+			referencedTableName="Parish"
+			baseColumnNames="parish_id"
+			baseTableName="Address"
+			referencedColumnNames="id" />
 	</changeSet>
-	
+
 	<!-- //////////////////////////////////////////////// Movie /////////////////////////////////////////////////////// -->
-	<changeSet id="13" author="jcaseiro">
+	<changeSet
+		id="13"
+		author="jcaseiro">
 		<comment>Table holding movie information</comment>
 
 		<createTable tableName="Movie">
 
-			<column name="id" type="java.sql.Types.BIGINT">
+			<column
+				name="id"
+				type="java.sql.Types.BIGINT">
 				<constraints primaryKey="true" />
 			</column>
-			
-			<column name="entityVersion" type="java.sql.Types.BIGINT" />
-			
-			<column name="title" type="java.sql.Types.VARCHAR(35)" />
-			
-			<column name="lengthInMinutes" type="java.sql.Types.BIGINT"/>
-			
-			<column name="releaseDate" type="java.sql.Types.DATE"/>
-			
-			<column name="budgetInEuros" type="java.sql.Types.BIGINT"/>
-			
-			<column name="costInEuros" type="java.sql.Types.BIGINT"/>
-			
-			<column name="revenueInEuros" type="java.sql.Types.BIGINT"/>
-			
-			<!-- <column name="roles" set of roles/>  -->
+
+			<column
+				name="entityVersion"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="title"
+				type="java.sql.Types.VARCHAR(35)" />
+
+			<column
+				name="lengthInMinutes"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="releaseDate"
+				type="java.sql.Types.DATE" />
+
+			<column
+				name="budgetInEuros"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="costInEuros"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="revenueInEuros"
+				type="java.sql.Types.BIGINT" />
+
+			<!-- <column name="roles" set of roles/> -->
 		</createTable>
 	</changeSet>
-	
+
 	<!-- //////////////////////////////////////////////// Role /////////////////////////////////////////////////////// -->
-	<changeSet id="14" author="jcaseiro">
+	<changeSet
+		id="14"
+		author="jcaseiro">
 		<comment>Table holding role information</comment>
-	
+
 		<createTable tableName="Role">
 
-			<column name="id" type="java.sql.Types.BIGINT">
+			<column
+				name="id"
+				type="java.sql.Types.BIGINT">
 				<constraints primaryKey="true" />
 			</column>
-			
-			<column name="entityVersion" type="java.sql.Types.BIGINT" />
-			
-			<column name="celebrity_id" type="java.sql.Types.BIGINT" />
-			
-			<column name="movie_id" type="java.sql.Types.BIGINT"/>
-			
-			<column name="occupation" type="java.sql.Types.VARCHAR(60)"/>
+
+			<column
+				name="entityVersion"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="celebrity_id"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="movie_id"
+				type="java.sql.Types.BIGINT" />
+
+			<column
+				name="occupation"
+				type="java.sql.Types.VARCHAR(60)" />
 		</createTable>
 	</changeSet>
-	
-	<changeSet id="15" author="jcaseiro">
+
+	<changeSet
+		id="15"
+		author="jcaseiro">
 		<comment>Foreign keys for role table</comment>
-			<addForeignKeyConstraint baseColumnNames="celebrity_id" baseTableName="Role" constraintName="FK_Role_Celebrity" referencedColumnNames="id"
-		    	referencedTableName="Celebrity"/>
-			<addForeignKeyConstraint baseColumnNames="movie_id" baseTableName="Role" constraintName="FK_Role_Movie" referencedColumnNames="id"
-		    	referencedTableName="Movie"/>
+		<addForeignKeyConstraint
+			baseColumnNames="celebrity_id"
+			baseTableName="Role"
+			constraintName="FK_Role_Celebrity"
+			referencedColumnNames="id"
+			referencedTableName="Celebrity" />
+		<addForeignKeyConstraint
+			baseColumnNames="movie_id"
+			baseTableName="Role"
+			constraintName="FK_Role_Movie"
+			referencedColumnNames="id"
+			referencedTableName="Movie" />
 	</changeSet>
-	
-	<changeSet id="16" author="jcaseiro">
+
+	<changeSet
+		id="16"
+		author="jcaseiro">
 		<comment>create unique constraint on table Role</comment>
-	
-		<addUniqueConstraint tableName="Role" columnNames="celebrity_id, movie_id"/>
+
+		<addUniqueConstraint
+			tableName="Role"
+			columnNames="celebrity_id, movie_id" />
 	</changeSet>
-	
-	
-	
+
+	<changeSet
+		id="17"
+		author="jcaseiro">
+		<comment>change constraint to be onDeleteCascade between table Celebrity and Role</comment>
+		<dropForeignKeyConstraint
+			baseTableName="Role"
+			constraintName="FK_Role_Celebrity" />
+
+		<addForeignKeyConstraint
+			baseColumnNames="celebrity_id"
+			baseTableName="Role"
+			constraintName="FK_Role_Celebrity"
+			referencedColumnNames="id"
+			referencedTableName="Celebrity"
+			onDelete="CASCADE" />
+	</changeSet>
+
+
+
 </databaseChangeLog>

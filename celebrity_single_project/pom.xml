@@ -12,6 +12,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring-release-version>3.0.5.RELEASE</spring-release-version>
 		<tapestry-release-version>5.2.4</tapestry-release-version>
+		<jersey-release-version>1.8</jersey-release-version>
 	</properties>
 
 	<dependencies>
@@ -19,7 +20,13 @@
 		<dependency>
 			<groupId>com.sun.jersey</groupId>
 			<artifactId>jersey-server</artifactId>
-			<version>1.8</version>
+			<version>${jersey-release-version}</version>
+		</dependency>
+		
+		<dependency>
+		    <groupId>com.sun.jersey</groupId>
+		    <artifactId>jersey-json</artifactId>
+		    <version>${jersey-release-version}</version>
 		</dependency>
  
 		<!-- Spring 3 dependencies -->

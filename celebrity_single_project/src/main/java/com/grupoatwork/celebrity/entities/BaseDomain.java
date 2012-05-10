@@ -12,7 +12,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.TableGenerator;
 import javax.persistence.Version;
 import javax.persistence.Id;
-import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlID;
 
 import org.springframework.core.style.ToStringCreator;
 
@@ -22,13 +22,11 @@ public class BaseDomain implements Serializable {
 	private static final long serialVersionUID = 47396264832642736L;
 	
 	@Id
-	@XmlElement
 	@GeneratedValue(strategy = GenerationType.TABLE, generator = "BaseDomainGenerator")
 	@TableGenerator(name = "BaseDomainGenerator", table = "ObjectIdSequences", pkColumnName = "ObjectClass", valueColumnName = "CurrentId", initialValue = 20120427)
 	private Long id; 
 	
 	@Version
-	@XmlElement(name="version")
     private Long entityVersion = new Long(0);
 
 	public Long getId() {
